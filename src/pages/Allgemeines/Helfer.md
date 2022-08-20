@@ -1,0 +1,41 @@
+---
+title: Helfer
+---
+
+![Merkblatt](/img/banner/OrgaTeam.jpeg)
+
+# Werde Helfer beim Heidelbergman!
+
+Liebe Helferinnen und Helfer,
+
+wie ihr sicherlich wisst, könnten wir Triathlonveranstaltungen wie den Heidelbergman ohne Euch Helfer nicht durchführen.
+
+Für den Heidelbergman sind wir wieder auf Eure Hilfe angewiesen. Wir wollen die Veranstaltung für alle Teilnehmer zu einem Erlebnis machen. Zu diesem Ziel kann jeder von Euch seinen individuellen Beitrag leisten. Abgesehen davon erwartet Euch ein unverwechselbarer Tag direkt im Wettkampfgeschehen des Triathlons.
+
+Das gesamte Orgateam freut sich über Eure Unterstützung und bedankt sich bereits jetzt für Eure Bereitschaft, uns beim Heidelbergman  zu unterstützen.
+
+Als Dankeschön erwartet Euch das offizielle Helfershirt, ein reich gefülltes Verpflegungspaket und jede Menge Spaß und strahlende Gesichter der Athleten.
+
+Auch wenn Du nur ein paar Stunden Zeit hast, **melde dich bitte bei unserem Helfermanagement [Bernd Holik](bernd.holik@heidelbergman.de)**, in welchem Zeitraum Du am Samstag zum Aufbau und/oder vor allem am Sonntag am Wettkampf dabei sein kannst!
+
+Schreibe außerdem gern dazu, wenn Du über besondere Fähigkeiten verfügst, die vielleicht hilfreich sein könnten wie z.B. **Motorradfahren oder handwerkliche Fähigkeiten** usw. Wir finden eine Aufgabe, in der Du dich verwirklichen kannst. Auch Bekannte, Freunde und Familie sind natürlich herzlich willkommen, mit anzupacken. Je mehr Helfer sich finden, desto schöner wird es für jeden einzelnen.
+
+## Aufgaben Samstag, ca. 9:00 h bis 13:00 h und von 13:00 h bis 17:00 h
+
+* Aufbau Wechselzone
+* Vorbereitung Lauf- und Schwimmstrecke
+* Startnummernausgabe
+
+## Aufgaben Sonntag, ca. 7:00 h bis 13:00 h und von 13:00 h bis 17:00 h
+
+* Streckenposten Rad oder Laufen
+* Schwimmstart, Schwimmausstieg
+* Zielverpflegung
+* Besetzung Wechselzone
+* Check-In/ -Out
+
+Weitere Infos zu Deiner Aufgabe bekommst Du dann, wenn alle Tätigkeiten verteilt sind.
+
+**Wir freuen uns auf Deine Unterstützung!**
+
+ 
