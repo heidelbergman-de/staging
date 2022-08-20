@@ -1,8 +1,6 @@
 ---
-slug: welcome
 title: Welcome
 authors: [sklevenz]
-tags: [Schwimmstrecke, Orga]
 ---
 
 # Welcome
