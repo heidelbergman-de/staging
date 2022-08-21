@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sklevenz/heidelbergman-site/',
+            'https://github.com/sklevenz/heidelbergman-site/tree/main',
         },
         blog: {
           blogSidebarCount: 'ALL',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sklevenz/heidelbergman-site/',
+            'https://github.com/sklevenz/heidelbergman-site/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
