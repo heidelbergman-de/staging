@@ -70,7 +70,7 @@ const config = {
       announcementBar: {
         id: 'AnmeldungOff',
         content:
-          'Die <a target="_blank" rel="noopener noreferrer" href="/Ausschreibung/Anmeldung">Anmledung</a> ist nicht offen!',
+          'Die <a target="_blank" rel="noopener noreferrer" href="Ausschreibung/Anmeldung">Anmledung</a> ist nicht offen!',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
