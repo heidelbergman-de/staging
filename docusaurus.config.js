@@ -13,12 +13,12 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'sklevenz', // Usually your GitHub org/user name.
   projectName: 'heidelbergman-site', // Usually your repo name.
-
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
