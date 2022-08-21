@@ -191,7 +191,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/sklevez/heidelbergman-site',
+            href: 'https://github.com/sklevenz/heidelbergman-site',
             label: 'GitHub',
             position: 'right',
           },
