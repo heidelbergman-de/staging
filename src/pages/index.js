@@ -11,7 +11,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          <img className={styles.heroLogo} src="/img/logo/Heidelbergman-Logo-lang.png" alt="Heidelbergman-Logo" />
+          <img className={styles.heroLogo} src='img/logo/HeidelbergMan-Logo-lang.png' alt="HeidelbergMan-Logo" />
         </h1>
         <h2 className={styles.heroTagline}>{siteConfig.customFields.startDate}</h2>
 
