@@ -18,8 +18,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
-          working-directory: tooling
+
+      - name: Yarn
+        run: yarn --version
 
       - name: Run a one-line script
         run: echo "Los geht es..." 
