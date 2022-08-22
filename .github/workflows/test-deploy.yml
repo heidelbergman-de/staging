@@ -4,6 +4,8 @@ on:
   pull_request:
     branches:
       - main
+    paths:
+      - heidelbergman-site/**
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
@@ -19,6 +21,7 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
+        working-directory: heidelbergman-site
         run: yarn install --frozen-lockfile
       - name: Test build website
         run: yarn build
