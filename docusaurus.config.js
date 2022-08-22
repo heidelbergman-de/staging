@@ -67,14 +67,14 @@ const config = {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },
-      announcementBar: {
-        id: 'AnmeldungOff',
-        content:
-          'Die <a target="_blank" rel="noopener noreferrer" href="Ausschreibung/Anmeldung">Anmledung</a> ist nicht offen!',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-        isCloseable: false,
-      },
+      // announcementBar: {
+      //   id: 'Announcement',
+      //   content:
+      //     'Der nächste HeidelbergMan Triathlon findet am 16.07.2023 statt',
+      //   backgroundColor: '#d0d0d0',
+      //   textColor: '#e21918',
+      //   isCloseable: false,
+      // },
       docs: {
         sidebar: {
           hideable: false,
