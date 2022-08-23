@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: yarn build and peaceiris deploy
 
 on:
   push:
