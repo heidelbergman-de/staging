@@ -4,9 +4,10 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -16,16 +17,19 @@ function HomepageHeader() {
         <h2 className={styles.heroTagline}>{siteConfig.customFields.startDate}</h2>
 
         <div className={styles.buttons}>
-        <Link
-            className="button button--primary button--lg"
-            to="/blog">
-            News
-          </Link>
-          {/* <Link
-            className="button button--secondary button--lg"
-            to="/blog">
-            News
-          </Link> */}
+          <div className={styles.button}>
+            <Link className="button button--primary button--lg"
+              to="/blog">
+              News
+            </Link>
+          </div>
+          {/* <div className={styles.button}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/Ausschreibung/Ausschreibung/">
+              Ausschreibung
+            </Link>
+          </div> */}
         </div>
       </div>
     </header>
@@ -33,12 +37,15 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`${siteConfig.title} - ${siteConfig.tagline}`}
       description="HeidelbergMan Heartbreak Triathlon">
       <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
     </Layout>
   );
 }
