@@ -18,7 +18,7 @@ title: Ergebnisse
 
 ## Ergebnis Archiv (geht zurück bis 1990)
 
-[Archiv](https://github.com/heidelbergman-de/heidelbergman-de/tree/main/static/Ergebnisse)
+[Archiv](https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main/static/Ergebnisse)
 
 ## Streckenrekorde (auf der neuen Strecke seit 2005)
 * Männer: 1:56:34 (Andreas Böcherer, 2011)

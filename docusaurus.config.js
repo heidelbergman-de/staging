@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/heidelbergman-de/heidelbergman-de/tree/main',
+            'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
         },
         blog: {
           blogSidebarCount: 'ALL',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/heidelbergman-de/heidelbergman-de/tree/main',
+            'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -206,7 +206,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/heidelbergman-de/heidelbergman-de',
+            href: 'https://github.com/heidelbergman-de/heidelbergman-de.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -262,7 +262,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/heidelbergman-de/heidelbergman-de',
+                href: 'https://github.com/heidelbergman-de/heidelbergman-de.github.io',
               },
             ],
           },
