@@ -21,7 +21,7 @@ function Feature({ src, title, description, url }) {
   return (
     <div className={clsx('col col--4')}>
       <div className={styles.featureImgContainer}>
-        <a href={url}><img src={src} alt={title} /></a>
+        <a href={url}><img src={src} alt={title} target="blank"/></a>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

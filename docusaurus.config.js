@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HeidelbergMan',
   tagline: 'Heartbrake Triathlon',
-  url: 'https://sklevenz.github.io/',
-  baseUrl: '/heidelbergman-site/',
+  url: 'https://heidelbergman-de.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,8 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sklevenz', // Usually your GitHub org/user name.
-  projectName: 'heidelbergman-site', // Usually your repo name.
+  organizationName: 'heidelbergman-de', // Usually your GitHub org/user name.
+  projectName: 'heidelbergman-de', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sklevenz/heidelbergman-site/tree/main',
+            'https://github.com/heidelbergman-de/heidelbergman-de/tree/main',
         },
         blog: {
           blogSidebarCount: 'ALL',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sklevenz/heidelbergman-site/tree/main',
+            'https://github.com/heidelbergman-de/heidelbergman-de/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -173,6 +173,21 @@ const config = {
           },
           {
             type: 'dropdown',
+            label: 'Partner',
+            position: 'left',
+            items: [
+              {
+                label: 'Heart Racer',
+                to: 'Partner/HeartRacer',
+              },
+              {
+                label: 'BASF Triathlon Cup Rhein-Neckar',
+                to: 'Partner/tcrn',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
             label: 'Kontakt',
             position: 'left',
             items: [
@@ -191,7 +206,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/sklevenz/heidelbergman-site',
+            href: 'https://github.com/heidelbergman-de/heidelbergman-de',
             label: 'GitHub',
             position: 'right',
           },
@@ -247,7 +262,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/sklevenz/heidelbergman-site',
+                href: 'https://github.com/heidelbergman-de/heidelbergman-de',
               },
             ],
           },

@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/sklevenz/heidelbergman-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/sklevenz/heidelbergman-site/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/heidelbergman-de/heidelbergman-de/actions/workflows/deploy.yml/badge.svg)](https://github.com/heidelbergman-de/heidelbergman-de/actions/workflows/deploy.yml)
 
 # Website
 
