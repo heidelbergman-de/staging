@@ -67,14 +67,14 @@ const config = {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },
-      // announcementBar: {
-      //   id: 'Announcement',
-      //   content:
-      //     'Der nächste HeidelbergMan Triathlon findet am 16.07.2023 statt',
-      //   backgroundColor: '#d0d0d0',
-      //   textColor: '#e21918',
-      //   isCloseable: false,
-      // },
+      announcementBar: {
+         id: 'Announcement',
+         content:
+           'Der HeidelbergMan 2022 in der <a href="https://www.rnz.de/sport/sportregional_artikel,-plappert-und-jansen-feiern-heimsiege-_arid,926869.html" target="_blank">Rhein-Neckar-Zeitung</a>',
+         backgroundColor: '#d0d0d0',
+         textColor: '#e21918',
+         isCloseable: false,
+       },
       docs: {
         sidebar: {
           hideable: false,
