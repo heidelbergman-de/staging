@@ -1,5 +1,5 @@
 ---
-title: Neuer Web Auftritt mit Docusaurus
+title: Docusaurus
 ---
 
 # Neuer Web Auftritt mit Docusaurus
