@@ -1,10 +1,10 @@
 ---
-title: Neue Webseite
+title: Neuer Web Auftritt mit Docusaurus
 ---
 
-# Neue Webseite
+# Neuer Web Auftritt mit Docusaurus
 
-Der HeidelbergMan Triathlon hat einen neuen Web Auftritt.
+Der HeidelbergMan Triathlon hat eine neue Webseite.
 
 <!--truncate-->
 
