@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HeidelbergMan',
   tagline: 'Heartbrake Triathlon',
-  url: 'https://heidelbergman.de',
+  url: 'https://www.heidelbergman.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
