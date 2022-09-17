@@ -27,5 +27,5 @@ Ganz herzliches Dankeschön an alle Helfer und ein besonderes Dankeschön an die
 
 
 
-[Zur Heart Racer Seite](https://www.heart-racer.org/mehr-als-150-teilnehmerinnen-beim-heart-racer-junior-triathlon-2022/)
+[Zur Heart Racer Seite](https://www.heart-racer.org)
 
