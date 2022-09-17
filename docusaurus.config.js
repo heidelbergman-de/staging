@@ -95,25 +95,25 @@ const config = {
 /**
               {
                 label: 'Ausschreibung',
-                to: 'Ausschreibung/Ausschreibung',
+                to: 'Wettkampf/Ausschreibung',
                 
               },
               {
                 label: 'Anmeldung',
-                to: 'Ausschreibung/Anmeldung',
+                to: 'Wettkampf/Anmeldung',
               },
               {
                 label: 'Zeitplan',
-                to: 'Ausschreibung/Zeitplan',
+                to: 'Wettkampf/Zeitplan',
               },
               {
                 label: 'Merkblatt',
-                to: 'Ausschreibung/Merkblatt',
+                to: 'Wettkampf/Merkblatt',
               },
  */
               {
                 label: 'Ergebnisse',
-                to: 'Ausschreibung/Ergebnisse',
+                to: 'Wettkampf/Ergebnisse',
               },
             ],
           },
