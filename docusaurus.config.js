@@ -89,9 +89,10 @@ const config = {
           { to: '/blog', label: 'News', position: 'left' },
           {
             type: 'dropdown',
-            label: 'Ausschreibung',
+            label: 'Wettkampf',
             position: 'left',
             items: [
+/**
               {
                 label: 'Ausschreibung',
                 to: 'Ausschreibung/Ausschreibung',
@@ -109,6 +110,7 @@ const config = {
                 label: 'Merkblatt',
                 to: 'Ausschreibung/Merkblatt',
               },
+ */
               {
                 label: 'Ergebnisse',
                 to: 'Ausschreibung/Ergebnisse',
