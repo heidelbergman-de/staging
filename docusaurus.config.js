@@ -40,8 +40,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
+          // editUrl: 'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
         },
         blog: {
           blogSidebarCount: 'ALL',
@@ -50,8 +49,7 @@ const config = {
           blogSidebarTitle: 'Neuigkeiten',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
+          // editUrl: 'https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
