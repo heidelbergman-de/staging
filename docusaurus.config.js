@@ -60,7 +60,7 @@ const config = {
           anonymizeIP: true,
         },
         gtag: { // Google Analytics 4 (ab 2023)
-          trackingID: 'G-337589445',
+          trackingID: 'G-Q2HWYNEFG9',
           anonymizeIP: true,
         },
 
