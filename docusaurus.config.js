@@ -55,12 +55,17 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        googleAnalytics: {
+        googleAnalytics: { // wird evt. im Juli 2023 obsolete
           trackingID: 'UA-27838255-1',
           anonymizeIP: true,
         },
+        gtag: { // Google Analytics 4 (ab 2023)
+          trackingID: 'G-337589445',
+          anonymizeIP: true,
+        },
+
       }),
-      
+
     ],
   ],
 
@@ -72,13 +77,13 @@ const config = {
         maxHeadingLevel: 5,
       },
       announcementBar: {
-         id: 'Announcement',
-         content:
-           'Der HeidelbergMan 2022 in der <a href="https://www.rnz.de/sport/sportregional_artikel,-plappert-und-jansen-feiern-heimsiege-_arid,926869.html" target="_blank">Rhein-Neckar-Zeitung</a>',
-         backgroundColor: '#d0d0d0',
-         textColor: '#e21918',
-         isCloseable: false,
-       },
+        id: 'Announcement',
+        content:
+          'Der HeidelbergMan 2022 in der <a href="https://www.rnz.de/sport/sportregional_artikel,-plappert-und-jansen-feiern-heimsiege-_arid,926869.html" target="_blank">Rhein-Neckar-Zeitung</a>',
+        backgroundColor: '#d0d0d0',
+        textColor: '#e21918',
+        isCloseable: false,
+      },
       docs: {
         sidebar: {
           hideable: false,
@@ -98,25 +103,25 @@ const config = {
             label: 'Wettkampf',
             position: 'left',
             items: [
-/**
-              {
-                label: 'Ausschreibung',
-                to: 'Wettkampf/Ausschreibung',
-                
-              },
-              {
-                label: 'Anmeldung',
-                to: 'Wettkampf/Anmeldung',
-              },
-              {
-                label: 'Zeitplan',
-                to: 'Wettkampf/Zeitplan',
-              },
-              {
-                label: 'Merkblatt',
-                to: 'Wettkampf/Merkblatt',
-              },
- */
+              /**
+                            {
+                              label: 'Ausschreibung',
+                              to: 'Wettkampf/Ausschreibung',
+                              
+                            },
+                            {
+                              label: 'Anmeldung',
+                              to: 'Wettkampf/Anmeldung',
+                            },
+                            {
+                              label: 'Zeitplan',
+                              to: 'Wettkampf/Zeitplan',
+                            },
+                            {
+                              label: 'Merkblatt',
+                              to: 'Wettkampf/Merkblatt',
+                            },
+               */
               {
                 label: 'Ergebnisse',
                 to: 'Wettkampf/Ergebnisse',
