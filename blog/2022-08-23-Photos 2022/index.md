@@ -1,9 +1,9 @@
 ---
-title: Bilder 2022
+title: Bilder vom HeidelbergMan 2022
 authors: sklevenz
 ---
 
-Unser Partner larasch hat Eure Bilder [>>online<<](https://events.larasch.de/heidelbergman/fotos)
+Unser Partner Larasch hat Eure Bilder [>>online<<](https://events.larasch.de/heidelbergman/fotos)
 
 ![Laura](https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3199-73330461.jpg)
 

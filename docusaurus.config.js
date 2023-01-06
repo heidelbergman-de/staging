@@ -79,7 +79,7 @@ const config = {
       announcementBar: {
         id: 'Announcement',
         content:
-          'Der HeidelbergMan 2022 in der <a href="https://www.rnz.de/sport/sportregional_artikel,-plappert-und-jansen-feiern-heimsiege-_arid,926869.html" target="_blank">Rhein-Neckar-Zeitung</a>',
+          'Die Anmeldung für den HeidelbergMan 2023 öffnet im Früjahr. Der genaue Termin ist noch nicht bekannt.',
         backgroundColor: '#d0d0d0',
         textColor: '#e21918',
         isCloseable: false,
