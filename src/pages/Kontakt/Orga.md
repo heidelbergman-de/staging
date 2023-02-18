@@ -19,8 +19,7 @@ martin.schmidt[at]heidelbergman.de
 
 ## Sponsoring
 
-Sören Michelsburg  
-soeren.michelsburg[at]heidelbergman.de
+-
 
 ## Finanzen
 
@@ -28,8 +27,8 @@ Peter Beck
 
 ## Meldewesen
 
-Uli Löbau  
-ulrich.loebau[at]heidelbergman.de
+Martin Schmidt  
+martin.schmidt[at]heidelbergman.de
 
 ## Top-Starter
 
@@ -43,16 +42,11 @@ stephan.klevenz[at]heidelbergman.de
 
 ## Radstrecke
 
-Mark Hackbarth  
-mark.hackbarth[at]heidelbergman.de
+-
 
 ## Laufstrecke
 
-Franzi Rudolph  
-franziska.rudolph[at]heidelbergman.de
-
-Dirk Zimmermann  
-dirk.zimmermann[at]heidelbergman.de
+-
 
 ## Wechselzone/Triathlonmesse
 
@@ -66,23 +60,22 @@ axel.peters[at]heidelbergman.de
 
 ## Gastronomie
 
-Jana Esslinger-Bieber  
-jana[at]heidelbergman.de
+-
 
 ## Helfermanagement
 
-Bernd Holik  
-bernd.holik[at]heidelbergman.de
+-
 
 ## Liga
 
-Frederik Langer  
-frederik.langer[at]heidelbergman.de
+-
 
-## Internet
+## Homepage
 
 Stephan Klevenz  
 stephan.klevenz[at]heidelbergman.de
+
+## Social Media
 
 Martin Schmidt  
 martin.schmidt[at]heidelbergman.de
