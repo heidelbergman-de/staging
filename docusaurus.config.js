@@ -153,6 +153,10 @@ const config = {
                 label: 'Fundsachen',
                 to: 'Allgemeines/Fundsachen',
               },
+              {
+                label: 'Medien & Bilder',
+                to: 'Allgemeines/Medien',
+              },
             ],
           },
           {
