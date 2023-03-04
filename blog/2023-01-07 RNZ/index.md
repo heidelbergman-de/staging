@@ -1,6 +1,6 @@
 ---
 title: Der HeidelbergMan in der Rhein Neckar Zeitung
-authors: sklevenz
+authors: orga
 ---
 
 

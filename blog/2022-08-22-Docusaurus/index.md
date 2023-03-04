@@ -1,6 +1,6 @@
 ---
 title: Der HeidelberMan Triathlon hat eine neue Web Seite
-authors: sklevenz
+authors: orga
 ---
 
 ## Der HeidelbergMan Triathlon hat eine neue Webseite

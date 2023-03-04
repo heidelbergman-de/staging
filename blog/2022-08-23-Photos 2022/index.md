@@ -1,6 +1,6 @@
 ---
 title: Bilder vom HeidelbergMan 2022
-authors: sklevenz
+authors: orga
 ---
 
 Unser Partner Larasch hat Eure Bilder [>>online<<](https://events.larasch.de/heidelbergman/fotos)
