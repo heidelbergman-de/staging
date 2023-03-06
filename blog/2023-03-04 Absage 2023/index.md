@@ -7,7 +7,7 @@ Liebe Triathleten und Fans des HeidelbergMan,
 
 mit großem Bedauern müssen wir euch mitteilen, dass der HeidelbergMan Triathlon 2023 nicht stattfinden wird. In den letzten Monaten haben wir uns mit verschiedenen Schwierigkeiten auseinandersetzen müssen, die es uns unmöglich machen, die Veranstaltung wie geplant durchzuführen. Wie viele andere Veranstalter haben auch wir seit Beginn der Corona-Pandemie mit stark rückläufigen Teilnehmerzahlen zu kämpfen - sowohl bei den Teilnehmer wie aber auch bei den erforderlichen ehrenamtlichen Helfern und in der Besetzung des Orga-Teams. Diese bedauerliche Entwicklung hat uns bereits in den letzten Jahren an die Grenzen unserer Ressourcen und Belastbarkeit gebracht.
 
-![RNZ](./img/heidelbergman2010.jpeg)
+![HeidelbergMan2010](./img/heidelbergman2010.jpeg)
 
 Um den HeidelbergMan in seiner traditionellen Form und mit der von uns gewünschten Qualität durchführen zu können bedarf es einer Mindestbesetzung in unserem Orga-Team. Aktuell fehlen uns hier leider an zu vielen entscheidenden Positionen die personelle Besetzungen.  Wir haben uns entschlossen, die Gesundheit und Sicherheit unserer Teilnehmer, Helfer und Zuschauer an erster Stelle zu setzen und unter diesen Umständen das Event abzusagen.
 
