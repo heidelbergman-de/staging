@@ -3,18 +3,18 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
-  {
-    src: require('@site/static/img/misc/Genehmigungssiegel_01-19-01-02679.png').default,
-  },
-  {
-    src: require('@site/static/img/sponsor/swhd.png').default,
-    url: "https://swhd.de",
-  },
-  {
-    title: 'Die >>für dich App',
-    src: require('@site/static/img/sponsor/swhd-qr.png').default,
-    description: "der Stadtwerke Heidelberg"
-  },
+  // {
+  //   src: require('@site/static/img/misc/Genehmigungssiegel_01-19-01-02679.png').default,
+  // },
+  // {
+  //   src: require('@site/static/img/sponsor/swhd.png').default,
+  //   url: "https://swhd.de",
+  // },
+  // {
+  //   title: 'Die >>für dich App',
+  //   src: require('@site/static/img/sponsor/swhd-qr.png').default,
+  //   description: "der Stadtwerke Heidelberg"
+  // },
 ];
 
 function Feature({ src, title, description, url }) {

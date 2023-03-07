@@ -29,7 +29,7 @@ const config = {
     locales: ['de'],
   },
   customFields: {
-    startDate: 'Start am 16.07.2023 um 9.00 Uhr',
+    startDate: 'Der HeidelbergMan 2023 ist abgesagt!',
   },
   presets: [
     [
@@ -79,7 +79,7 @@ const config = {
       announcementBar: {
         id: 'Announcement',
         content:
-          'Die Anmeldung für den HeidelbergMan 2023 öffnet im Früjahr. Der genaue Termin ist noch nicht bekannt.',
+          'Der HeidelbergMan 2023 findet leider nicht statt.',
         backgroundColor: '#d0d0d0',
         textColor: '#e21918',
         isCloseable: false,
