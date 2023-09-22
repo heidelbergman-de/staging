@@ -14,8 +14,7 @@ info[@]heidelbergman.de
 
 ## Rennleitung
 
-Martin Schmidt  
-martin.schmidt[at]heidelbergman.de
+-
 
 ## Sponsoring
 
@@ -23,22 +22,19 @@ martin.schmidt[at]heidelbergman.de
 
 ## Finanzen
 
-Peter Beck  
+-
 
 ## Meldewesen
 
-Martin Schmidt  
-martin.schmidt[at]heidelbergman.de
+-
 
 ## Top-Starter
 
-Martin Schmidt  
-martin.schmidt[at]heidelbergman.de
+-
 
 ## Schwimmstrecke
 
-Stephan Klevenz  
-stephan.klevenz[at]heidelbergman.de
+-
 
 ## Radstrecke
 
@@ -50,13 +46,11 @@ stephan.klevenz[at]heidelbergman.de
 
 ## Wechselzone/Triathlonmesse
 
-Oliver Hillermeier  
-oliver.hillermeier[at]heidelbergman.de
+-
 
 ## Zielbereich
 
-Axel Peters  
-axel.peters[at]heidelbergman.de
+-
 
 ## Gastronomie
 
@@ -72,10 +66,8 @@ axel.peters[at]heidelbergman.de
 
 ## Homepage
 
-Stephan Klevenz  
-stephan.klevenz[at]heidelbergman.de
+-
 
 ## Social Media
 
-Martin Schmidt  
-martin.schmidt[at]heidelbergman.de
+-
