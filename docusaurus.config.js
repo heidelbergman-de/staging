@@ -29,7 +29,7 @@ const config = {
     locales: ['de'],
   },
   customFields: {
-    startDate: 'Der HeidelbergMan 2023 ist abgesagt!',
+    startDate: '28. Juli 2024',
   },
   presets: [
     [
@@ -79,7 +79,7 @@ const config = {
       announcementBar: {
         id: 'Announcement',
         content:
-          'Der HeidelbergMan 2023 findet leider nicht statt.',
+          'Der HeidelbergMan 2024 ist zurück!',
         backgroundColor: '#d0d0d0',
         textColor: '#e21918',
         isCloseable: false,
