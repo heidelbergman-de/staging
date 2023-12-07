@@ -58,7 +58,7 @@ function FloatingDiv(props) {
 export default function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
 
-  const root = document.documentElement;
+  // const root = document.documentElement;
 
   const HDLogo = siteConfig.customFields.HDLogo;
 

@@ -4,10 +4,10 @@ import styles from "./css/images.module.css";
 export default function ImageGallery() {
   const images = require.context("/img/banner/", true);
   const getImageClass = (image) => {
-    const img = new Image();
-    img.src = image.default;
-    const width = img.width;
-    const height = img.height;
+    // const img = new Image();
+    // img.src = image.default;
+    // const width = img.width;
+    // const height = img.height;
 
     const style_list = [
       styles.gridWrapperDiv,
