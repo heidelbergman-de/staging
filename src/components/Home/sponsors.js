@@ -9,8 +9,7 @@ export default function SponsorSection() {
       <h1>SPONSOREN</h1>
       <div className={styles.sponsorSectionLogos}></div>
       <Link
-        className="button button--primary button--lg button--outline button--block"
-        style={{ marginTop: "2rem", overflow: "hidden" }}
+        className={`button button--primary button--lg button--outline button--block ${styles.sponsorButton}`}
         to="mailto:sponsoring@heidelberman.de"
       >
         Sie möchten den HEIDELBERGMAN gerne unterstützen? <br />

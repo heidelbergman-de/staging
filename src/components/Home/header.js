@@ -40,7 +40,7 @@ function FloatingDiv(props) {
         />
       </div>
       <div className={styles.floatingHeaderDivTextField}>
-        <h4>{props.headline}</h4>
+        <h4 className={styles.floatingHeaderDivTextHeader}>{props.headline}</h4>
         <p className={styles.floatingHeaderDivTextDesc}>{props.text}</p>
         <div className={styles.floatingHeaderDivButton}>
           <Link
@@ -67,16 +67,13 @@ export default function HomepageHeader() {
       <div className={styles.headerBackground}>
         <div className={styles.headerImageContainer}>
           <img
+            className={styles.headerImageLogo}
             src={HDLogo}
             alt="HeidelbergMan Logo"
-            style={{ width: "30rem", margin: "0 auto" }}
           />
         </div>
 
-        <h1 className={styles.headerTagline} style={{ fontSize: "3rem" }}>
-          {" "}
-          Sonntag, 28. Juli 2024
-        </h1>
+        <h1 className={styles.headerTagline}> Sonntag, 28. Juli 2024</h1>
 
         <div className={styles.buttons}>
           <div className={styles.button}>

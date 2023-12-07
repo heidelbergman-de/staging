@@ -25,3 +25,13 @@
   padding: 5vw;
   padding-top: 2rem;
 }
+
+@media (max-width: 768px) {
+  .gradientDiv {
+    display: flex;
+    flex-direction: column;
+  }
+  .rightDiv {
+    margin-top: 20px;
+  }
+}

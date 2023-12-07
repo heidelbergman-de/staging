@@ -5,6 +5,7 @@
   height: 65vh;
   position: relative;
   align-items: center;
+  object-fit: fill;
 }
 
 .newsCarousel {
@@ -36,4 +37,11 @@
   position: absolute;
   bottom: 0;
   background-color: var(--custom-hover-div-background-color);
+}
+
+@media (max-width: 768px) {
+  .carouselContainer {
+    width: 98%;
+    max-width: 98%;
+  }
 }

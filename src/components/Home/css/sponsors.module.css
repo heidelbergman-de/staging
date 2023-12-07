@@ -17,3 +17,10 @@
   margin-top: 3rem;
   margin: 1rem;
 }
+
+.sponsorButton {
+  margin-top: 2rem;
+  overflow: hidden;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

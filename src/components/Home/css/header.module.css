@@ -1,5 +1,5 @@
-h2.headerTagline {
-  font-size: 2rem;
+.headerTagline {
+  font-size: 3rem;
   margin-bottom: 2rem;
   filter: drop-shadow(2px 2px 2px #666);
 }
@@ -22,6 +22,11 @@ h2.headerTagline {
   /* height: 40rem; */
   align-content: center;
   margin-top: 1rem;
+}
+
+.headerImageLogo {
+  width: 30rem;
+  margin: 0 auto;
 }
 
 .roundImage {
@@ -86,6 +91,9 @@ h2.headerTagline {
   max-height: 20vh;
 }
 
+.floatingHeaderDivTextHeader {
+}
+
 .floatingHeaderDivTextDesc {
   margin-bottom: 0.5rem;
   margin-left: 0.5rem;
@@ -115,4 +123,56 @@ h2.headerTagline {
   line-height: 0;
   outline: none;
   z-index: -100;
+}
+
+@media (max-width: 1400px) {
+  .headerTagline {
+    font-size: 2rem;
+  }
+  .headerImageLogo {
+    width: 30vw;
+    margin: 0 auto;
+  }
+  .headerImageContainer {
+    padding: 4rem;
+    width: 33vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .headerTagline {
+    font-size: 1.5rem;
+  }
+  .headerImageLogo {
+    width: 10rem;
+    margin: 0 auto;
+  }
+  .headerImageContainer {
+    padding: 2rem;
+    width: 12rem;
+  }
+  .roundImage {
+    height: 0;
+    border-radius: 10%;
+  }
+  .floatingHeaderDiv {
+    height: auto;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .floatingHeaderDivImage {
+    display: none;
+  }
+  .floatingHeaderDivTextDesc {
+    display: none;
+    height: 0;
+  }
+  .floatingHeaderDivTextHeader {
+    display: none;
+    height: 0;
+  }
+  .floatingHeaderDivTextField {
+    width: auto;
+    max-height: min-content;
+  }
 }
