@@ -6,16 +6,16 @@ title: Impressum
 
 # Impressum
 
-## Veranstalter
-- SV Nikar Heidelberg e.V.
-- Ski Club Heidelberg e.V.
+### Veranstalter
 
-## Organisation
-Martin Schmidt
+SV Nikar Heidelberg e.V.
 
-HeidelbergMan GbR<br></br>
+### Organisation
+
+SV Nikar Heidelberg<br></br>
 Tiergartenstraße 13/2<br></br>
 69121 Heidelberg
 
-## Verantwortlicher i.S.d.P
+### Verantwortlicher i.S.d.P
+
 Verantwortlicher Webmaster für die Planung, Realisierung und Betreuung der Internetinhalte sowie für die Administration ist: Stephan Klevenz

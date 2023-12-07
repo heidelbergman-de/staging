@@ -1,0 +1,39 @@
+.carouselContainer {
+  margin: 0 auto;
+  width: 50%;
+  max-width: 50%;
+  height: 65vh;
+  position: relative;
+  align-items: center;
+}
+
+.newsCarousel {
+  height: 65vh;
+}
+
+.newsCard {
+  width: 75%;
+  margin: 0 auto;
+  height: 60vh;
+  background-color: var(--custom-hover-div-background-color);
+}
+
+.newsCardImgTop {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.newsCardText {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* max-height: 25vh; */
+}
+
+.newsCardLink {
+  height: 3rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background-color: var(--custom-hover-div-background-color);
+}

@@ -1,0 +1,27 @@
+.gradientDiv {
+  background: linear-gradient(
+    90deg,
+    var(--custom-theme-color-start),
+    var(--custom-theme-color-end)
+  );
+  padding: 1rem;
+  padding-top: 5rem;
+  /* margin: 1rem; */
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.leftDiv {
+  margin-right: 0.5rem; /* Updated margin value */
+  flex-basis: 55%; /* Added flex-basis property */
+  padding: 5vw;
+  padding-top: 2rem;
+}
+
+.rightDiv {
+  margin-left: 0.5rem; /* Updated margin value */
+  flex-basis: 45%; /* Added flex-basis property */
+  padding: 5vw;
+  padding-top: 2rem;
+}

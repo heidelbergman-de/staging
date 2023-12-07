@@ -1,0 +1,19 @@
+.sponsorSection {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.sponsorSectionLogos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sponsorLink {
+  margin-top: 3rem;
+  margin: 1rem;
+}

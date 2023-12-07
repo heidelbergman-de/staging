@@ -6,13 +6,13 @@ title: Orga Team
 
 # Kontakt zum Orga Team
 
-Der HeidelbergMan wird vom SV Nikar Heidelberg und Ski Club Heidelberg organisiert. Ihr habt Fragen an das Orga-Team? Dann schreibt uns bitte per E-Mail. Hier findet Ihr die richtigen Ansprechpartner für Eure Fragen:
+Der HeidelbergMan wird vom SV Nikar Heidelberg organisiert. Ihr habt Fragen an das Orga-Team? Dann schreibt uns bitte per E-Mail. Hier findet Ihr die richtigen Ansprechpartner für Eure Fragen:
 
 ## Allgemeine Anfragen
 
 info[@]heidelbergman.de
 
-## Rennleitung
+<!-- ## Rennleitung
 
 -
 
@@ -70,4 +70,4 @@ info[@]heidelbergman.de
 
 ## Social Media
 
--
+- -->

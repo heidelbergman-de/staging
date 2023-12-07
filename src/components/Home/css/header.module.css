@@ -1,0 +1,118 @@
+h2.headerTagline {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  filter: drop-shadow(2px 2px 2px #666);
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  margin: 5px;
+}
+
+.headerImageContainer {
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 5rem;
+  width: 30rem;
+  /* height: 40rem; */
+  align-content: center;
+  margin-top: 1rem;
+}
+
+.roundImage {
+  height: 15rem;
+  border-radius: 10%;
+}
+
+.headerBackground {
+  background-image: radial-gradient(
+    var(--custom-header-gradient-color-start),
+    var(--custom-header-gradient-color-end)
+  );
+  background-size: cover;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.floatingHeaderDivGroup {
+  display: flex;
+  margin-top: auto;
+  background-color: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.3)
+  );
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0%;
+  overflow: hidden;
+  flex-wrap: wrap; /* Add flex-wrap to wrap the floating divs on narrow displays */
+}
+
+.floatingHeaderDiv {
+  padding: 0rem;
+  background-color: var(--custom-hover-div-background-color);
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10%;
+  display: flex;
+  align-items: top;
+  height: 20vh;
+}
+
+.floatingHeaderDivImage {
+  border-radius: 10%;
+  width: 20vh;
+  height: 20vh;
+}
+
+.floatingHeaderDivTextField {
+  text-align: center;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 25vh;
+  max-height: 20vh;
+}
+
+.floatingHeaderDivTextDesc {
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 10rem;
+  font-size: small;
+}
+
+.floatingHeaderDivButton {
+  margin-top: auto;
+  margin-bottom: 1rem;
+}
+
+.floatingHeaderDivButtonStyle {
+  font-size: small;
+}
+
+.headerBackgroundVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  line-height: 0;
+  outline: none;
+  z-index: -100;
+}
