@@ -92,7 +92,10 @@ export default function HomepageHeader() {
 
       <video className={styles.headerBackgroundVideo} autoPlay loop muted>
         <source src="vids/HDman_teaser.mp4" type="video/mp4" />
-        <source src="vids/HDman_teaser.webm" type="video/webm" />
+        <source
+          src="https://github.com/heidelbergman-de/heidelbergman-de.github.io/raw/main/static/vids/HDMan_teaser.webm"
+          type="video/webm"
+        />
       </video>
     </header>
   );
