@@ -1,5 +1,5 @@
 .headerTagline {
-  font-size: 3rem;
+  font-size: 5vh;
   margin-bottom: 2rem;
   filter: drop-shadow(2px 2px 2px #666);
 }
@@ -11,27 +11,22 @@
 }
 
 .button {
-  margin: 5px;
+  /* margin: 5px; */
 }
 
 .headerImageContainer {
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.5);
-  padding: 5rem;
-  width: 30rem;
+  padding: 6vh;
+  width: 40vh;
   /* height: 40rem; */
   align-content: center;
   margin-top: 1rem;
 }
 
 .headerImageLogo {
-  width: 30rem;
+  width: 40vh;
   margin: 0 auto;
-}
-
-.roundImage {
-  height: 15rem;
-  border-radius: 10%;
 }
 
 .headerBackground {
@@ -74,6 +69,11 @@
   display: flex;
   align-items: top;
   height: 20vh;
+}
+
+.floatingDivRoundImageContainer {
+  height: 15rem;
+  border-radius: 10%;
 }
 
 .floatingHeaderDivImage {
@@ -151,7 +151,45 @@
     padding: 2rem;
     width: 12rem;
   }
-  .roundImage {
+  .floatingDivRoundImageContainer {
+    height: 0;
+    border-radius: 10%;
+  }
+  .floatingHeaderDiv {
+    height: auto;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .floatingHeaderDivImage {
+    display: none;
+  }
+  .floatingHeaderDivTextDesc {
+    display: none;
+    height: 0;
+  }
+  .floatingHeaderDivTextHeader {
+    display: none;
+    height: 0;
+  }
+  .floatingHeaderDivTextField {
+    width: auto;
+    max-height: min-content;
+  }
+}
+
+@media (max-height: 600px) {
+  .headerTagline {
+    font-size: 1.5rem;
+  }
+  .headerImageLogo {
+    width: 10rem;
+    margin: 0 auto;
+  }
+  .headerImageContainer {
+    padding: 2rem;
+    width: 12rem;
+  }
+  .floatingDivRoundImageContainer {
     height: 0;
     border-radius: 10%;
   }

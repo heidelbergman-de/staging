@@ -32,7 +32,7 @@ const floatingDivs = [
 function FloatingDiv(props) {
   return (
     <div className={styles.floatingHeaderDiv}>
-      <div className={styles.roundImage}>
+      <div className={styles.floatingDivRoundImageContainer}>
         <img
           className={styles.floatingHeaderDivImage}
           src={props.img_path}
