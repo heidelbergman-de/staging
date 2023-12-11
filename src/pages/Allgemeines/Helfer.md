@@ -16,7 +16,7 @@ Das gesamte Orgateam freut sich über Eure Unterstützung und bedankt sich berei
 
 Als Dankeschön erwartet Euch das offizielle Helfershirt, ein reich gefülltes Verpflegungspaket und jede Menge Spaß und strahlende Gesichter der Athleten.
 
-Auch wenn Du nur ein paar Stunden Zeit hast, **melde dich bitte bei unserem Helfermanagement [Bernd Holik](mailto:bernd.holik@heidelbergman.de)**, in welchem Zeitraum Du am Samstag zum Aufbau und/oder vor allem am Sonntag am Wettkampf dabei sein kannst!
+Auch wenn Du nur ein paar Stunden Zeit hast, **melde dich bitte bei unserem Helfermanagement [Orga-Team](mailto:info@heidelbergman.de)**, in welchem Zeitraum Du am Samstag zum Aufbau und/oder vor allem am Sonntag am Wettkampf dabei sein kannst!
 
 Schreibe außerdem gern dazu, wenn Du über besondere Fähigkeiten verfügst, die vielleicht hilfreich sein könnten wie z.B. **Motorradfahren oder handwerkliche Fähigkeiten** usw. Wir finden eine Aufgabe, in der Du dich verwirklichen kannst. Auch Bekannte, Freunde und Familie sind natürlich herzlich willkommen, mit anzupacken. Je mehr Helfer sich finden, desto schöner wird es für jeden einzelnen.
 
