@@ -90,7 +90,13 @@ export default function HomepageHeader() {
         </div>
       </div>
 
-      <video className={styles.headerBackgroundVideo} autoPlay loop muted>
+      <video
+        className={styles.headerBackgroundVideo}
+        autoPlay
+        loop
+        muted
+        poster="img/header/no_img.jpg"
+      >
         <source src="vids/HDman_teaser.mp4" type="video/mp4" />
         <source
           src="https://github.com/heidelbergman-de/heidelbergman-de.github.io/raw/main/static/vids/HDMan_teaser.webm"
