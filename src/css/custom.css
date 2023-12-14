@@ -26,8 +26,8 @@
   --custom-hover-div-background-color: rgba(0, 20, 40, 0.95);
   --custom-header-gradient-color-start: rgba(25, 25, 30, 0.6);
   --custom-header-gradient-color-end: rgba(25, 25, 30, 0.9);
-  --custom-theme-color-start: rgba(0, 50, 100, 0.95);
-  --custom-theme-color-end: rgba(0, 10, 20, 0.95);
+  --custom-theme-color-start: rgba(0, 50, 100, 1);
+  --custom-theme-color-end: rgba(0, 10, 20, 1);
 }
 
 /* Set the global font to Montserrat */
