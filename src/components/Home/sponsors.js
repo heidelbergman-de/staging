@@ -10,7 +10,7 @@ export default function SponsorSection() {
       <div className={styles.sponsorSectionLogos}></div>
       <Link
         className={`button button--primary button--lg button--outline button--block ${styles.sponsorButton}`}
-        to="mailto:sponsoring@heidelberman.de"
+        to="mailto:sponsoring@heidelbergman.de"
       >
         Sie möchten den HEIDELBERGMAN gerne unterstützen? <br />
         Dann klicken Sie einfach hier und schicken Sie uns eine Nachricht. Wir
