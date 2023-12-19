@@ -18,7 +18,7 @@ Die Laufstrecke hat insgesamt 160 Höhenmeter und ist teilweise schattig. Übrig
 
 ## Laufstrecke zum Download
 
-* [Laufstrecke auf Garmin.com](http://connect.garmin.com/modern/activity/520624408)
-* [Laufstrecke als GPX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.gpx)
-* [Laufstrecke als TCX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.tcx)
-* [Laufstrecke als KML](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.kml)
+- [Laufstrecke auf Garmin.com](http://connect.garmin.com/modern/activity/520624408)
+  <!-- * [Laufstrecke als GPX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.gpx) -->
+  <!-- * [Laufstrecke als TCX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.tcx) -->
+  <!-- * [Laufstrecke als KML](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.kml) -->
