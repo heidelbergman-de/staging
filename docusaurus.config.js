@@ -109,25 +109,23 @@ const config = {
           label: "Wettkampf",
           position: "left",
           items: [
-            /**
-                            {
-                              label: 'Ausschreibung',
-                              to: 'Wettkampf/Ausschreibung',
-                              
-                            },
-                            {
-                              label: 'Anmeldung',
-                              to: 'Wettkampf/Anmeldung',
-                            },
-                            {
-                              label: 'Zeitplan',
-                              to: 'Wettkampf/Zeitplan',
-                            },
-                            {
-                              label: 'Merkblatt',
-                              to: 'Wettkampf/Merkblatt',
-                            },
-               */
+            {
+              label: "Ausschreibung",
+              to: "Wettkampf/Ausschreibung",
+            },
+            // {
+            //   label: "Anmeldung",
+            //   to: "Wettkampf/Anmeldung",
+            // },
+            // {
+            //   label: "Zeitplan",
+            //   to: "Wettkampf/Zeitplan",
+            // },
+            // {
+            //   label: "Merkblatt",
+            //   to: "Wettkampf/Merkblatt",
+            // },
+
             {
               label: "Ergebnisse",
               to: "Wettkampf/Ergebnisse",

@@ -6,4 +6,170 @@ title: Ausschreibung
 
 # Ausschreibung
 
-Gibt es noch nicht.
+**Datum**: Sonntag, 28. Juli 2024, Start um 9.30 Uhr
+
+**Veranstalter:**\
+SV Nikar Heidelberg
+
+**Ausrichter:**\
+SV Nikar Heidelberg
+
+**Wettkampfort:**\
+Heidelberg
+
+**Olympische Distanz Einzel:**\
+1,6 km Schwimmen (Massenstart) / 35 km Radfahren / 10 km Laufen\
+Jahrgang 2006 und älter (gemäß DTU-Sportordnung)\
+\
+**Olympische Distanz Staffel:\
+**1,6 km Schwimmen (Start nach den Einzelstartern)/ 35 km Radfahren / 10
+km Laufen\
+Jahrgang 2010 (Schwimmen und Laufen) und älter, Jahrgang 2008
+(Radfahren) und älter (gemäß DTU-Sportordnung)
+
+**Startgebühr:**
+
+---
+
+Alle Teilnehmer\ **Olympische  
+ (alle Disziplinen insgesamt) Distanz**
+
+Teilnehmer:in Einzel Staffel
+
+1-200 99 € U25:69€ 119 € U25:89€
+
+201-400 109 € U25:79€ 129 € U25:99€
+
+ab 401 119 € U25:89€ 139 € U25:109€
+
+Nachmeldung vor Ort 130 € 150 €
+
+---
+
+**Firmenstaffeln:**\
+folgt**\
+**
+
+Die Startgebühr wird nach der Anmeldung vom Zeitnehmer per
+Lastschriftmandat eingezogen. Etwaige Kosten, die dem Veranstalter
+infolge von Rücklastschriften entstehen gehen zu Lasten des Teilnehmers.
+
+**Zeitmessung:**\
+Die Zeitmessung erfolgt mit Leihtranspondern des Zeitmessers
+(time2finish). Ein eigenes Chipband wird nicht benötigtIn die Wertung
+kommen alle Starter:innen, deren Transponder ordnungsgemäß am Knöchel
+angebracht und alle Stationen für die Zeiterfassung passiert haben. Der
+Verlust des Transponders während des Wettkampfs führt zur
+Disqualifikation. Während des Wettkampfes darf nur ein Transponder
+getragen werden. Für Staffeln gilt der Transponder als Staffelstab und
+wir in der Wechselzone weitergegeben. Staffeln erhalten nur einen
+Transponder.
+
+Der Transponder wird beim Check-In des Rades ausgegeben. Die Leihgebühr
+ist im Startgeld bereits enthalten. Wird der Chip nicht am
+Veranstaltungstag bis 14.00 Uhr zurückgegeben werden für den Verlust 35
+EUR in Rechnung gestellt.
+
+**DTU-Tageslizenz**\
+Olympische Distanz Einzel: 20,-€ für Starter ohne gültigen DTU Startpass
+(oder eines anderen der ITU angehörenden Verbandes)
+
+**Ermäßigung\
+**Einzel Teilnehmer:innen mit dem Jahrgang 2000 oder jünger erhalten bei
+der Online-Anmeldung einen Rabatt i.H.v. 30€ unabhängig von der
+Preisstufe.\
+Staffeln erhalten diesen Rabatt ebenfalls, wenn alle
+Staffelteilnehmer:innen Jahrgang 2000 oder jünger sind. Der Rabatt wird
+beim Bezahlvorgang in der Onlineanmeldung automatisch abgezogen, wenn
+das Alterskriterium erfüllt ist. Bei Nachmeldungen vor Ort gibt es keine
+Ermäßigung.
+
+**Anmeldung:\
+**Die Anmeldung ist ausschließlich online unter www.heidelbergman.de
+möglich.
+
+**Online Anmeldeschluss:\
+**14.07.2024, danach nur noch Nachmeldung vor Ort möglich.
+
+**Rücktritt:\
+**Ein Rücktritt vom gebuchten Startplatz ist innerhalb von 7 Tagen nach
+der Onlineanmeldung kostenfreier möglich. Eine Abmeldung ist nur per
+Mail an anmeldung@heidelbergman.de möglich.\
+Eine Abmeldung nach Anmeldeschluss (14.07.2024) ist nicht möglich, auch
+wenn die 7 Tage Rückgabefrist noch nicht abgelaufen ist.\
+Eine Erstattung des gebuchten Startplatzes nach Ablauf der 7 Tage Frist
+ist grundsätzlich nicht möglich.
+
+**Ummeldung:**\
+Die Ummeldung auf eine:n andere:n Athlet:in ist gegen eine Gebühr von
+10€ bis zum 14.07.2024 möglich. Danach ist eine Ummeldung am
+Veranstaltungstag vor Ort gegen eine Gebühr von 20€ möglich.
+
+**Verschieberecht\
+**Bei der Online-Anmeldung gibt es die Option der Buchung eines
+Verschieberechts.\
+Dieses kostet 10% des Startgeldes und ermöglicht die einmalige
+Verschiebung des Startplatzes aus gesundheitlichen ausschließlich aufs
+Folgejahr.\
+Hierzu muss bis Donnerstag vor dem Rennen (25.07.2024, 21 Uhr) ein
+ärztliches Attest per Mail an anmeldung@heidelbergman.de gesendet
+werden. Das Attest muss mindestens das Datum der Veranstaltung umfassen.
+Später eingereichte Atteste können nicht mehr berücksichtigt werden.
+Eine Rückerstattung der Startgebühr ist ausgeschlossen.
+
+**Teilnehmerlimit:** \
+600 Einzelstarter:innen\
+200 Staffeln
+
+**Cut Off Zeiten\
+**Schwimmen: folgt\
+Radfahren: folgt\
+Laufen: Zielschluss folgt
+
+**Zeitstrafen**: \
+Zeitstrafen für Windschattenfahren beim Radfahren (blaue Karten) werden
+per Zeitaddition auf die Endzeit gehandhabt.
+
+**DTU Sportordnung:\
+**Der Heidelbergman unterliegt in seinem Reglement der Sportordnung der
+Deutschen Triathlon Union (einzusehen unter:
+https://www.triathlondeutschland.de/verband/dokumente-ordnungen/sportordnung
+
+**Verwendung der Startgebühr:**\
+Organisation\
+Starterpaket\
+Streckensperrung und -- Sicherung\
+Startnummer\
+Taschentransport vom Schwimmstart aufs Wettkampfgelände\
+Streckenverpflegung (Laufstrecke)\
+Zeitnahme\
+Zielverpflegung\
+Sanitätsdienstliche Betreuung\
+Ergebnisdienst.
+
+**Triathlon-Cup Rhein-Neckar:\
+**Der HeidelbergMan ist eine der Veranstaltungen des Triathlon-Cup
+Rhein-Neckar. Eine separate Anmeldung zur Teilnahme an der Cup-Wertung
+ist nicht erforderlich.
+
+**Wertungen und Ehrungen**\
+Geehrt werden sowohl Einzelstarter:innen, als auch Staffeln. Die genauen
+Ehrungsmodalitäten werden noch bekannt gegeben.\
+\
+**Bergwertung**
+
+Es wird erstmals eine Bergwertung geben. Das genaue Segment wird noch
+bekannt gegeben.\
+Die Tagesschnellste und der Tagesschnellste werden geehrt.
+
+**Preisgelder**\
+Es werden Preisgelder ausgeschüttet.
+
+Die genaue Verteilung wird noch bekannt gegeben\
+Alle Preisgelder sind inkl. MwSt.
+
+**Hinweise\
+**Vor Ort gibt es keine Möglichkeit zu duschen. Auch Umkleiden gibt es
+keine.\
+Die Parkmöglichkeiten sind sehr begrenzt. Wir bitten um eine Anreise mit
+öffentlichen Verkehrsmitteln, dem Rad oder in Fahrgemeinschaften.
