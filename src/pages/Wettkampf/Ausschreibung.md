@@ -21,8 +21,8 @@ Heidelberg
 1,6 km Schwimmen (Massenstart) / 35 km Radfahren / 10 km Laufen\
 Jahrgang 2006 und älter (gemäß DTU-Sportordnung)\
 \
-**Olympische Distanz Staffel:\
-**1,6 km Schwimmen (Start nach den Einzelstartern)/ 35 km Radfahren / 10
+**Olympische Distanz Staffel:**\
+1,6 km Schwimmen (Start nach den Einzelstartern)/ 35 km Radfahren / 10
 km Laufen\
 Jahrgang 2010 (Schwimmen und Laufen) und älter, Jahrgang 2008
 (Radfahren) und älter (gemäß DTU-Sportordnung)
@@ -38,8 +38,7 @@ Jahrgang 2010 (Schwimmen und Laufen) und älter, Jahrgang 2008
 | Nachmeldung vor Ort                                 | 130 €  | 130 €      | 150 €   | 150 €       |
 
 **Firmenstaffeln:**\
-folgt**\
-**
+folgt\
 
 Die Startgebühr wird nach der Anmeldung vom Zeitnehmer per
 Lastschriftmandat eingezogen. Etwaige Kosten, die dem Veranstalter
@@ -65,8 +64,8 @@ EUR in Rechnung gestellt.
 Olympische Distanz Einzel: 20,-€ für Starter ohne gültigen DTU Startpass
 (oder eines anderen der ITU angehörenden Verbandes)
 
-**Ermäßigung\
-**Einzel Teilnehmer:innen mit dem Jahrgang 2000 oder jünger erhalten bei
+**Ermäßigung**\
+Einzel Teilnehmer:innen mit dem Jahrgang 2000 oder jünger erhalten bei
 der Online-Anmeldung einen Rabatt i.H.v. 30€ unabhängig von der
 Preisstufe.\
 Staffeln erhalten diesen Rabatt ebenfalls, wenn alle
@@ -75,15 +74,15 @@ beim Bezahlvorgang in der Onlineanmeldung automatisch abgezogen, wenn
 das Alterskriterium erfüllt ist. Bei Nachmeldungen vor Ort gibt es keine
 Ermäßigung.
 
-**Anmeldung:\
-**Die Anmeldung ist ausschließlich online unter www.heidelbergman.de
+**Anmeldung:**\
+Die Anmeldung ist ausschließlich online unter www.heidelbergman.de
 möglich.
 
-**Online Anmeldeschluss:\
-**14.07.2024, danach nur noch Nachmeldung vor Ort möglich.
+**Online Anmeldeschluss:**\
+14.07.2024, danach nur noch Nachmeldung vor Ort möglich.
 
-**Rücktritt:\
-**Ein Rücktritt vom gebuchten Startplatz ist innerhalb von 7 Tagen nach
+**Rücktritt:**\
+Ein Rücktritt vom gebuchten Startplatz ist innerhalb von 7 Tagen nach
 der Onlineanmeldung kostenfreier möglich. Eine Abmeldung ist nur per
 Mail an anmeldung@heidelbergman.de möglich.\
 Eine Abmeldung nach Anmeldeschluss (14.07.2024) ist nicht möglich, auch
@@ -96,8 +95,8 @@ Die Ummeldung auf eine:n andere:n Athlet:in ist gegen eine Gebühr von
 10€ bis zum 14.07.2024 möglich. Danach ist eine Ummeldung am
 Veranstaltungstag vor Ort gegen eine Gebühr von 20€ möglich.
 
-**Verschieberecht\
-**Bei der Online-Anmeldung gibt es die Option der Buchung eines
+**Verschieberecht**\
+Bei der Online-Anmeldung gibt es die Option der Buchung eines
 Verschieberechts.\
 Dieses kostet 10% des Startgeldes und ermöglicht die einmalige
 Verschiebung des Startplatzes aus gesundheitlichen ausschließlich aufs
@@ -112,8 +111,8 @@ Eine Rückerstattung der Startgebühr ist ausgeschlossen.
 600 Einzelstarter:innen\
 200 Staffeln
 
-**Cut Off Zeiten\
-**Schwimmen: folgt\
+**Cut Off Zeiten**\
+Schwimmen: folgt\
 Radfahren: folgt\
 Laufen: Zielschluss folgt
 
@@ -121,8 +120,8 @@ Laufen: Zielschluss folgt
 Zeitstrafen für Windschattenfahren beim Radfahren (blaue Karten) werden
 per Zeitaddition auf die Endzeit gehandhabt.
 
-**DTU Sportordnung:\
-**Der Heidelbergman unterliegt in seinem Reglement der Sportordnung der
+**DTU Sportordnung:**\
+Der Heidelbergman unterliegt in seinem Reglement der Sportordnung der
 Deutschen Triathlon Union (einzusehen unter:
 https://www.triathlondeutschland.de/verband/dokumente-ordnungen/sportordnung
 
@@ -159,8 +158,8 @@ Es werden Preisgelder ausgeschüttet.
 Die genaue Verteilung wird noch bekannt gegeben\
 Alle Preisgelder sind inkl. MwSt.
 
-**Hinweise\
-**Vor Ort gibt es keine Möglichkeit zu duschen. Auch Umkleiden gibt es
+**Hinweise**\
+Vor Ort gibt es keine Möglichkeit zu duschen. Auch Umkleiden gibt es
 keine.\
 Die Parkmöglichkeiten sind sehr begrenzt. Wir bitten um eine Anreise mit
 öffentlichen Verkehrsmitteln, dem Rad oder in Fahrgemeinschaften.
