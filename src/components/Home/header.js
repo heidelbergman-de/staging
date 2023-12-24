@@ -9,7 +9,7 @@ const floatingDivs = [
   {
     img_path: "img/header/s03.png",
     headline: "Anmeldung",
-    text: "Die Anmeldung öffnet bald! Schau im Januar nochmal vorbei.",
+    text: "Die Anmeldung öffnet am 01.01.2024 um 12:00 Uhr.",
     button_text: "Anmeldung",
     button_link: "#",
   },
