@@ -126,7 +126,7 @@ const config = {
             //   to: "Wettkampf/Merkblatt",
             // },
             {
-              label: "AGBs",
+              label: "AGB",
               to: "Wettkampf/AGBs",
             },
 
