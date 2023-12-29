@@ -46,3 +46,8 @@ body {
 .navbar__title {
   color: white;
 }
+
+img {
+  width: auto;
+  height: auto;
+}
