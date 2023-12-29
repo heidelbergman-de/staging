@@ -5,6 +5,8 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./css/header.module.css";
 import clsx from "clsx";
 
+import CountdownTimer from "./countdown.js";
+
 const floatingDivs = [
   {
     img_path: "img/header/s03.png",
@@ -62,6 +64,18 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
+  const targetDate = new Date("2024-01-01T12:00:00.000Z").getTime();
+
+  const anmeldeButton = (
+    <div className={styles.buttons}>
+      <div className={styles.button}>
+        <Link className="button button--primary button--lg" to="#">
+          Anmeldung
+        </Link>
+      </div>
+    </div>
+  );
+
   return (
     <header>
       <div className={styles.headerBackground}>
@@ -75,13 +89,19 @@ export default function HomepageHeader() {
 
         <h1 className={styles.headerTagline}> Sonntag, 28. Juli 2024</h1>
 
-        <div className={styles.buttons}>
+        <CountdownTimer
+          targetDate={targetDate}
+          text="Die Anmeldung öffnet in"
+          expiredNotice={anmeldeButton}
+        />
+
+        {/* <div className={styles.buttons}>
           <div className={styles.button}>
-            <Link className="button button--primary button--lg" to="/blog">
-              News
+            <Link className="button button--primary button--lg" to="#">
+              Anmeldung
             </Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (

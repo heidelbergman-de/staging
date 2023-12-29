@@ -1,0 +1,40 @@
+.showCounter {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  padding: 0.5rem;
+  border: 1px solid #ebebeb;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  margin: 0.5rem;
+}
+
+.countdownDiv {
+  line-height: 1.25rem;
+  padding: 0 0.75rem 0 0.75rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.showCounterP {
+  font-size: 1.5rem;
+}
+
+.showCounterSpan {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.countDownHeader {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+}
