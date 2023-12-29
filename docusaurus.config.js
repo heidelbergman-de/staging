@@ -203,10 +203,10 @@ const config = {
           label: "Partner",
           position: "left",
           items: [
-            {
-              label: "Heart Racer",
-              to: "Partner/HeartRacer",
-            },
+            // {
+            //   label: "Heart Racer",
+            //   to: "Partner/HeartRacer",
+            // },
             {
               label: "BASF Triathlon Cup Rhein-Neckar",
               to: "Partner/tcrn",
