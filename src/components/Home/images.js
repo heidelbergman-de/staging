@@ -2,7 +2,8 @@ import React from "react";
 import styles from "./css/images.module.css";
 
 export default function ImageGallery() {
-  const images = require.context("/img/banner/", true);
+  const images = require.context("/img/startpage/", true);
+
   const getImageClass = (image) => {
     // const img = new Image();
     // img.src = image.default;
@@ -34,6 +35,7 @@ export default function ImageGallery() {
   const imageList = images
     .keys()
     .map((image) => [images(image), getImageClass(images(image))]);
+  const randomImages = imageList.sort(() => 0.5 - Math.random()).slice(0, 25);
 
   return (
     <div className={styles.gridWrapper}>
