@@ -64,10 +64,7 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
-  const targetDate = new Date("2024-01-01T12:00:00.000Z").toLocaleString(
-    "en-US",
-    { timeZone: "Europe/Paris" }
-  );
+  const targetDate = new Date("2024-01-01T11:00:00.000Z").getTime();
 
   const anmeldeButton = (
     <div className={styles.buttons}>
