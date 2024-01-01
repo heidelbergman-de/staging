@@ -11,7 +11,7 @@ const floatingDivs = [
   {
     img_path: "img/header/s03.png",
     headline: "Anmeldung",
-    text: "Die Anmeldung öffnet am 01.01.2024 um 12:00 Uhr.",
+    text: "Melde dich jetzt an.",
     button_text: "Anmeldung",
     button_link: "https://heidelbergman2024.racepedia.de/",
   },
