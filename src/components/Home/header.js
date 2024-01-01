@@ -13,7 +13,7 @@ const floatingDivs = [
     headline: "Anmeldung",
     text: "Die Anmeldung öffnet am 01.01.2024 um 12:00 Uhr.",
     button_text: "Anmeldung",
-    button_link: "#",
+    button_link: "https://heidelbergman2024.racepedia.de/",
   },
   {
     img_path: "img/header/s01.png",
