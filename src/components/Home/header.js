@@ -69,7 +69,10 @@ export default function HomepageHeader() {
   const anmeldeButton = (
     <div className={styles.buttons}>
       <div className={styles.button}>
-        <Link className="button button--primary button--lg" to="#">
+        <Link
+          className="button button--primary button--lg"
+          to="https://heidelbergman2024.racepedia.de/"
+        >
           Anmeldung
         </Link>
       </div>
