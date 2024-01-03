@@ -29,13 +29,13 @@ Jahrgang 2010 (Schwimmen und Laufen) und älter, Jahrgang 2008
 
 **Startgebühr:**
 
-| Alle Teilnehmer\*innen (alle Disziplinen insgesamt) |        |            |         |             |
-| --------------------------------------------------- | ------ | ---------- | ------- | ----------- |
-| Teilnehmer:in                                       | Einzel | Einzel U25 | Staffel | Staffel U25 |
-| 1-200                                               | 99 €   | 69 €       | 119 €   | 89 €        |
-| 201-400                                             | 109 €  | 79 €       | 129 €   | 99 €        |
-| ab 401                                              | 119 €  | 89 €       | 139 €   | 109 €       |
-| Nachmeldung vor Ort                                 | 130 €  | 130 €      | 150 €   | 150 €       |
+| Alle Teilnehmer\*innen (alle Disziplinen insgesamt) |          |            |           |             |
+| --------------------------------------------------- | -------- | ---------- | --------- | ----------- |
+| Teilnehmer:in                                       | Einzel   | Einzel U25 | Staffel   | Staffel U25 |
+| ~~1-200~~                                           | ~~99 €~~ | ~~69 €~~   | ~~119 €~~ | ~~89 €~~    |
+| 201-400                                             | 109 €    | 79 €       | 129 €     | 99 €        |
+| ab 401                                              | 119 €    | 89 €       | 139 €     | 109 €       |
+| Nachmeldung vor Ort                                 | 130 €    | 130 €      | 150 €     | 150 €       |
 
 **Firmenstaffeln:**\
 folgt\
