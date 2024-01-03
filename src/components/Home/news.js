@@ -7,9 +7,12 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./css/news.module.css";
 
 const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
-  const first500Chars = content
+  let first500Chars = content
     .replace(/\(([^)]+)\)|\[([^]]+)\]/g, "")
-    .substring(0, 500);
+    .substring(0, 500)
+    .split("\n")
+    .filter((line) => !line.trim().startsWith("|"))
+    .join("\n");
 
   const firstImg = content.match(/!\[.*\]\((.*)\)/);
   var new_img_url = null;
@@ -21,8 +24,6 @@ const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
         .replace("(", "")
         .replace(")", "")
         .replace("./", metadata.permalink + "/");
-
-      console.log("firstImg", useBaseUrl(new_img_url));
     }
   }
 
