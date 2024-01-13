@@ -113,6 +113,10 @@ const config = {
               label: "Ausschreibung",
               to: "Wettkampf/Ausschreibung",
             },
+            {
+              label: "Anmeldung",
+              to: "https://heidelbergman2024.racepedia.de/",
+            },
             // {
             //   label: "Anmeldung",
             //   to: "Wettkampf/Anmeldung",
