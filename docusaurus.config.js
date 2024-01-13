@@ -94,7 +94,7 @@ const config = {
     navbar: {
       title: "HEIDELBERGMAN",
       // title: "",
-      hideOnScroll: false,
+      hideOnScroll: true,
       logo: {
         alt: "HeidelbergMan Logo",
         src: "/img/logo/HD_logo10c.png",
@@ -273,6 +273,14 @@ const config = {
             {
               label: "News",
               to: "/blog",
+            },
+          ],
+        },
+        {
+          title: "DTU",
+          items: [
+            {
+              html: '<img src="/img/misc/DTU_HDMan2024.png" width="114" height="51" />',
             },
           ],
         },
