@@ -6,7 +6,8 @@ title: Üersicht
 
 # Übersicht
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EoCKBz76ROOd67Mjg6aV0ICBFSdQJ4w&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe data-src="https://www.google.com/maps/d/u/0/embed?mid=1EoCKBz76ROOd67Mjg6aV0ICBFSdQJ4w&ehbc=2E312F&noprof=1" data-name="google-maps"
+ width="640" height="480"></iframe>
 
 Beim HeidelbergMan gelten folgende Zeitlimits:
 

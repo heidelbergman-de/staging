@@ -54,16 +54,16 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-        googleAnalytics: {
-          // wird evt. im Juli 2023 obsolete
-          trackingID: "UA-27838255-1",
-          anonymizeIP: true,
-        },
-        gtag: {
-          // Google Analytics 4 (ab 2023)
-          trackingID: "G-Q2HWYNEFG9",
-          anonymizeIP: true,
-        },
+        // googleAnalytics: {
+        //   // wird evt. im Juli 2023 obsolete
+        //   trackingID: "UA-27838255-1",
+        //   anonymizeIP: true,
+        // },
+        // gtag: {
+        //   // Google Analytics 4 (ab 2023)
+        //   trackingID: "G-Q2HWYNEFG9",
+        //   anonymizeIP: true,
+        // },
       }),
     ],
   ],
@@ -309,6 +309,16 @@ const config = {
         blogSidebarTitle: "Neuigkeiten",
       },
     ],
+  ],
+  scripts: [
+    {
+      src: "/js/config.js",
+      defer: true,
+    },
+    {
+      src: "/js/klaro.js",
+      defer: true,
+    },
   ],
 };
 
