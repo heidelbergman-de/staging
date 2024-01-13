@@ -47,6 +47,10 @@ body {
   color: white;
 }
 
+.navbar-sidebar__brand {
+  background-color: rgb(0, 20, 40);
+}
+
 img {
   width: auto;
   height: auto;
