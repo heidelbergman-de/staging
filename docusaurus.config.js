@@ -279,7 +279,7 @@ const config = {
               to: "/blog",
             },
             {
-              html: `<a class="footer__link-item" href="#" id="cookie-settings" onclick="klaro.show();" >Cookie Settings</a>`,
+              html: `<a class="footer__link-item" href="#" id="cookie-settings" onclick="return klaro.show();" >Cookie Settings</a>`,
             },
           ],
         },
@@ -316,11 +316,9 @@ const config = {
   scripts: [
     {
       src: "/js/config.js",
-      defer: true,
     },
     {
       src: "/js/klaro.js",
-      defer: true,
     },
   ],
 };

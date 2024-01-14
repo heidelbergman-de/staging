@@ -11,7 +11,7 @@ var klaroConfig = {
 
   // How Klaro should store the user's preferences. It can be either 'cookies'
   // or 'localStorage'. If undefined, Klaro will use cookies.
-  klaroStorage: "localStorage",
+  klaroStorage: "cookies",
 
   // You can customize the name of the cookie that Klaro uses for storing
   // user consent decisions. If undefined, Klaro will use 'klaro'.
@@ -28,7 +28,7 @@ var klaroConfig = {
   privacyPolicy: "/Datenschutz",
 
   // Defines the default state for applications (true=enabled by default).
-  default: true,
+  default: false,
 
   // If "mustConsent" is set to true, Klaro will directly display the consent
   // manager modal and not allow the user to close it before having actively
@@ -52,8 +52,6 @@ var klaroConfig = {
       purposes: ["performance"],
       name: "googlemaps",
       title: "Google Maps",
-      onlyOnce: false,
-      // contextualConsentOnly: true,
     },
     // {
     //   // Each app should have a unique (and short) name.
