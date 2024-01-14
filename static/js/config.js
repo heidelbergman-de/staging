@@ -11,7 +11,7 @@ var klaroConfig = {
 
   // How Klaro should store the user's preferences. It can be either 'cookies'
   // or 'localStorage'. If undefined, Klaro will use cookies.
-  klaroStorage: "localStorage",
+  // klaroStorage: "localStorage",
 
   // You can customize the name of the cookie that Klaro uses for storing
   // user consent decisions. If undefined, Klaro will use 'klaro'.
@@ -25,7 +25,7 @@ var klaroConfig = {
   // store user consent. If undefined, Klaro will use 'klaro'.
 
   // Put a link to your privacy policy here (relative or absolute).
-  privacyPolicy: "https://www.parity.io/privacy/",
+  privacyPolicy: "/Datenschutz",
 
   // Defines the default state for applications (true=enabled by default).
   default: true,
@@ -46,34 +46,12 @@ var klaroConfig = {
   // list of translations that can be overwritten:
   // https://github.com/DPKit/klaro/blob/master/src/translations.yml
 
-  // Example config that shows how to overwrite translations:
-  // https://github.com/DPKit/klaro/blob/master/src/configs/i18n.js
-  translations: {
-    // If you erase the "consentModal" translations, Klaro will use the
-    // defaults as defined in translations.yml
-    en: {
-      //   consentModal: {
-      //     description:
-      //       "We use necessary cookies to make our site work. We'd also like to set optional tracking mechanisms to help us improve it by collecting and reporting information on how you use it. Here you can customize the information we collect about you by giving or revoking your consent to our use of optional tracking mechanisms.",
-      //   },
-      googleAnalytics: {
-        description:
-          "Collection of information about how visitors use our website",
-      },
-      purposes: {
-        analytics: "analytics and improvement of our sites",
-        security: "security",
-      },
-      close: "Save settings",
-    },
-  },
-
   // This is a list of third-party apps that Klaro will manage for you.
   services: [
     {
       purposes: ["performance"],
       name: "google-maps",
-      contextualConsentOnly: true,
+      // contextualConsentOnly: true,
     },
     // {
     //   // Each app should have a unique (and short) name.
