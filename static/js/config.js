@@ -11,11 +11,11 @@ var klaroConfig = {
 
   // How Klaro should store the user's preferences. It can be either 'cookies'
   // or 'localStorage'. If undefined, Klaro will use cookies.
-  // klaroStorage: "localStorage",
+  klaroStorage: "localStorage",
 
   // You can customize the name of the cookie that Klaro uses for storing
   // user consent decisions. If undefined, Klaro will use 'klaro'.
-  cookieName: "HDManCookie",
+  // cookieName: "HDManCookie",
 
   // You can also set a custom expiration time for the Klaro cookie.
   // By default, it will expire after 120 days.
@@ -50,7 +50,9 @@ var klaroConfig = {
   services: [
     {
       purposes: ["performance"],
-      name: "google-maps",
+      name: "googlemaps",
+      title: "Google Maps",
+      onlyOnce: false,
       // contextualConsentOnly: true,
     },
     // {
