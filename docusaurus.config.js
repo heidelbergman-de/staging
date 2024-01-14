@@ -278,6 +278,9 @@ const config = {
               label: "News",
               to: "/blog",
             },
+            {
+              html: `<a class="footer__link-item" href="#" id="cookie-settings" onclick="klaro.show();" >Cookie Settings</a>`,
+            },
           ],
         },
         {
