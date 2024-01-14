@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "./css/images.module.css";
 
+const num_images = 20;
+
 export default function ImageGallery() {
   const images = require.context("/img/startpage/", true);
 
@@ -35,11 +37,13 @@ export default function ImageGallery() {
   const imageList = images
     .keys()
     .map((image) => [images(image), getImageClass(images(image))]);
-  const randomImages = imageList.sort(() => 0.5 - Math.random()).slice(0, 25);
+  const randomImages = imageList
+    .sort(() => 0.5 - Math.random())
+    .slice(0, num_images);
 
   return (
     <div className={styles.gridWrapper}>
-      {imageList.map((image, index) => (
+      {randomImages.map((image, index) => (
         <div key={index} className={image[1]}>
           <img
             key={index}
