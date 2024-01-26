@@ -61,7 +61,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
      </tr>
     <tr>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
-            <img src="/img/pages/orga/Neckarvorland_2mdpi.webp" alt="Neckarvorland"  />
+            <img src="/img/pages/orga/neckarvorland_2mdpi.jpg" alt="Neckarvorland"  />
         </td>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
             Julien und Felix sind die Ansprechpartner für die Wechselzone und den Zielbereich des Heidelbergman. 🔁 🏁 \
@@ -77,12 +77,12 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
             die Gestaltung von Posts, Stories, Reels sowie Beiträgen über Social Media und unserer Website. Sie repräsentieren damit die Online-Präsenz des Heidelbergman.
         </td>
         <td style={{ border: "none", padding: "10px" }}>
-            <img src="/img/pages/orga/Socialmediamdpi.webp" alt="Socialmedia"  />
+            <img src="/img/pages/orga/socialmediamdpi.jpg" alt="Socialmedia"  />
         </td>
      </tr>
     <tr>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
-            <img src="/img/pages/orga/Helfermanagement_1mdpi.webp" alt="Helfermanagement"  />
+            <img src="/img/pages/orga/helfermanagement_1mdpi.jpg" alt="Helfermanagement"  />
         </td>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
            Chris und David werden dieses Ressort leiten. \
