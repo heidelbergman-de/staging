@@ -82,7 +82,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
      </tr>
     <tr>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
-            <img src="/img/pages/orga/helfermanagement_1mdpi.jpg" alt="Helfermanagement"  />
+            <img src="/img/pages/orga/helfermanagement-1mdpi.jpg" alt="Helfermanagement"  />
         </td>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
            Chris und David werden dieses Ressort leiten. \
