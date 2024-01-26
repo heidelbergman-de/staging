@@ -9,7 +9,7 @@ title: Orga Team
 **Hi, wir sind das Orga-Team des HEIDELBERGMAN. Wir sind ein bunt gemischter Haufen aus "jungen" Triathlet\*innen, die sich ehrenamtlich für den HEIDELBERGMAN engagieren. Wir sind alle Mitglieder des SV Nikar Heidelberg und haben uns zusammengefunden, um den HEIDELBERGMAN zu organisieren.**
 
 Wir sind:
-Franzi, Johannes, Juliane, Felix, Mia, Simon, David, Emilia, Julien, Chris, Doro, Freddy, Sören 
+Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Freddy, Sören 
 
 
 <table style={{ borderCollapse: "collapse", margin: "20px" }}>
