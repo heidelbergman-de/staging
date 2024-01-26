@@ -8,7 +8,7 @@ export default function KlaroElement({children, kname}) {
         if(klaro.getManager().consents[kname] === true) {
             return children;
         } else {    
-            return (<p>Inhalt blockiert.<br/> Zum Entblocken kannst du <a href="#" id="cookie-settings2" onclick="return klaro.show();" >hier</a> deine Cookie Einstellungen ändern</p>);
+            return (<p>Inhalt blockiert.<br/> Zum Entblocken kannst du <a href="#" id="cookie-settings2" onClick={ () => {klaro.show(undefined, true); return false;} } >hier</a> deine Cookie Einstellungen ändern.<br />Bitte lade danach die Seite neu.</p>);
         }
 
     // browser code

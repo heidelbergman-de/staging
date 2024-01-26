@@ -61,7 +61,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
      </tr>
     <tr>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
-            <img src="/img/pages/orga/neckarvorland_2mdpi.jpg" alt="Neckarvorland"  />
+            <img src="/img/pages/orga/neckarvorland-2mdpi.jpg" alt="Neckarvorland"  />
         </td>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
             Julien und Felix sind die Ansprechpartner für die Wechselzone und den Zielbereich des Heidelbergman. 🔁 🏁 \
