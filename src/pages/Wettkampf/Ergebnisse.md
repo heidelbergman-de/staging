@@ -10,15 +10,11 @@ title: Ergebnisse
 * HeidelbergMan 2021: [Runtix](https://runtix.com/sts/10050/2090/os/-/-)
 * HeidelbergMan 2019: [Einzelstarter/Jedermannstaffeln](https://coderesearch.com/sts/services/10050/1464), [Firmenstaffeln](https://coderesearch.com/sts/services/10050/1549)
 * HeidelbergMan 2018: [BR-Timing](https://coderesearch.com/sts/services/10050/1170/os/total/0)
-* HeidelbergMan 2017: [Trisys](http://trisys.de/ergebnisse/ergebnisse/197-heidelbergman-2017)
-* Heidelbergman 2016: [Trisys](http://trisys.de/ergebnisse/ergebnisse/164-heidelbergman-2016)
-* HeidelbergMan 2015: [Trisys](http://www.trisys.de/ergebnisse/ergebnisse/122-heidelbergman-2015)
-* HeidelbergMan 2014: [Trisys](http://trisys.de/ergebnisse/ergebnisse/91-heidelbergman-2014)
-* HeidelbergMan 2013: [MikaTiming](http://heidelbergman.r.mikatiming.de/2013/)
+
 
 ## Ergebnis Archiv (geht zurück bis 1990)
 
-[Archiv](https://github.com/heidelbergman-de/heidelbergman-de.github.io/tree/main/static/Ergebnisse)
+[Archiv](/Wettkampf/ErgebnisArchiv)
 
 ## Streckenrekorde (auf der neuen Strecke seit 2005)
 * Männer: 1:56:34 (Andreas Böcherer, 2011)
