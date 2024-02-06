@@ -8,11 +8,11 @@ import styles from "./css/news.module.css";
 
 const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
   let first500Chars = content
-    .replace(/\(([^)]+)\)|\[([^]]+)\]/g, "")
+    .replace(/\(([^)]+)\)|\[([^]]+)\]/g, "").replace(/\[(.*?)\]|\!|\[|\]/g, "")
     .substring(0, 500)
     .split("\n")
     .filter((line) => !line.trim().startsWith("|"))
-    .join("\n");
+    .join("\n") + "...";
 
   const firstImg = content.match(/!\[.*\]\((.*)\)/);
   var new_img_url = null;
@@ -26,6 +26,8 @@ const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
         .replace("./", metadata.permalink + "/");
     }
   }
+
+  
 
   const imageSrc = new_img_url || "img/header/no_img.jpg";
 
