@@ -166,6 +166,10 @@ const config = {
               to: "Allgemeines/Fundsachen",
             },
             {
+              label: "Staffelbörse",
+              to: "Allgemeines/Staffelboerse",
+            },
+            {
               label: "Medien & Bilder",
               to: "Allgemeines/Medien",
             },
