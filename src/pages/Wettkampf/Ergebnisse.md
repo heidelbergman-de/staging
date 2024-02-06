@@ -5,26 +5,35 @@ title: Ergebnisse
 ![Ergebnisse](/img/banner/Ergebnisse.png)
 
 # Ergebnisse
-
+Die Ergebnisse der letzten Jahre finden Sie hier:
 * HeidelbergMan 2022: [Runtix](https://runtix.com/sts/10050/2262)
 * HeidelbergMan 2021: [Runtix](https://runtix.com/sts/10050/2090/os/-/-)
 * HeidelbergMan 2019: [Einzelstarter/Jedermannstaffeln](https://coderesearch.com/sts/services/10050/1464), [Firmenstaffeln](https://coderesearch.com/sts/services/10050/1549)
 * HeidelbergMan 2018: [BR-Timing](https://coderesearch.com/sts/services/10050/1170/os/total/0)
+<br/>
+<br/>
 
-
-## Ergebnis Archiv (geht zurück bis 1990)
-
+#### Ergebnis Archiv 
+Die Ergebnisse der Jahre 1990 bis 2022 finden Sie hier: \
 [Archiv](/Wettkampf/ErgebnisArchiv)
+<br/>
+<br/>
 
-## Streckenrekorde (auf der neuen Strecke seit 2005)
+
+#### Streckenrekorde 
+Auf der neuen Strecke seit 2005:
 * Männer: 1:56:34 (Andreas Böcherer, 2011)
 * Frauen: 2:12:17 (Laura Philipp, 2014)
 * Staffeln: 1:55:56 (Petra Dallmann/Lorenz Hotz/Luca Bongiovanni, 2007)
+<br/>
+<br/>
 
-## Ehrentafel
 
+
+#### Ehrentafel
+<br/>
 | **Jahr** | **Siegerinnen**                   | **Sieger**                  | **Bemerkungen**                                        |
-|----------|-----------------------------------|-----------------------------|--------------------------------------------------------|
+| -------- | --------------------------------- | --------------------------- | ------------------------------------------------------ |
 | 2022     | Laura Jansen                      | Malte Plappert              |                                                        |
 | 2021     | Laura Philipp                     | Mika Noodt                  |                                                        |
 | 2020     |                                   |                             | Ausgefallen wegen Corona                               |
