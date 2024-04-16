@@ -7,31 +7,31 @@ export default function SponsorSection() {
 
   const imagesSponsorMain = require.context("/img/sponsor/main", true);
   const imageMainList = imagesSponsorMain.keys()
-    .filter((image) => /\.(png|jpe?g|gif|svg|webm)$/i.test(image))
+    .filter((image) => /\.(png|jpe?g|gif|svg|webm|webp)$/i.test(image))
     .map((image) => imagesSponsorMain(image));
   // const imageMainList = imagesSponsorMain.keys().map((image) => images(image));
 
   const imagesSponsorGold = require.context("/img/sponsor/gold", true);
   const imageGoldList = imagesSponsorGold.keys()
-    .filter((image) => /\.(png|jpe?g|gif|svg|webm)$/i.test(image))
+    .filter((image) => /\.(png|jpe?g|gif|svg|webm|webp)$/i.test(image))
     .map((image) => imagesSponsorGold(image));
   // const imageGoldList = imagesSponsorGold.keys().map((image) => images(image));
 
   const imagesSponsorSilver = require.context("/img/sponsor/silver", true);
   const imageSilverList = imagesSponsorSilver.keys()
-    .filter((image) => /\.(png|jpe?g|gif|svg|webm)$/i.test(image))
+    .filter((image) => /\.(png|jpe?g|gif|svg|webm|webp)$/i.test(image))
     .map((image) => imagesSponsorSilver(image));
   // const imageSilverList = imagesSponsorSilver.keys().map((image) => images(image));
 
   const imagesSponsorBronze = require.context("/img/sponsor/bronze", true);
   const imageBronzeList = imagesSponsorBronze.keys()
-    .filter((image) => /\.(png|jpe?g|gif|svg|webm)$/i.test(image))
+    .filter((image) => /\.(png|jpe?g|gif|svg|webm|webp)$/i.test(image))
     .map((image) => imagesSponsorBronze(image));
   // const imageBronzeList = imagesSponsorBronze.keys().map((image) => images(image));
 
   const imagesSponsorSupport = require.context("/img/sponsor/support", true);
   const imageSupportList = imagesSponsorSupport.keys()
-    .filter((image) => /\.(png|jpe?g|gif|svg|webm)$/i.test(image))
+    .filter((image) => /\.(png|jpe?g|gif|svg|webm|webp)$/i.test(image))
     .map((image) => imagesSponsorSupport(image));
   // const imageSupportList = imagesSponsorSupport.keys().map((image) => images(image));
 
