@@ -211,10 +211,10 @@ const config = {
           label: "Partner",
           position: "left",
           items: [
-            // {
-            //   label: "Heart Racer",
-            //   to: "Partner/HeartRacer",
-            // },
+            {
+              label: "Sponsoren",
+              to: "Partner/Sponsoren",
+            },
             {
               label: "Triathlon Cup Rhein-Neckar",
               to: "Partner/tcrn",
