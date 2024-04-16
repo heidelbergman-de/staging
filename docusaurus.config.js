@@ -216,7 +216,7 @@ const config = {
             //   to: "Partner/HeartRacer",
             // },
             {
-              label: "BASF Triathlon Cup Rhein-Neckar",
+              label: "Triathlon Cup Rhein-Neckar",
               to: "Partner/tcrn",
             },
           ],
