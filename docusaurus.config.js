@@ -121,10 +121,10 @@ const config = {
             //   label: "Anmeldung",
             //   to: "Wettkampf/Anmeldung",
             // },
-            // {
-            //   label: "Zeitplan",
-            //   to: "Wettkampf/Zeitplan",
-            // },
+            {
+              label: "Zeitplan",
+              to: "Wettkampf/Zeitplan",
+            },
             // {
             //   label: "Merkblatt",
             //   to: "Wettkampf/Merkblatt",
