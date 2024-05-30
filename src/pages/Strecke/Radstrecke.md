@@ -6,7 +6,7 @@ title: Radstrecke
 
 # Radfahren
 
-Die Radstrecke ist zwar nur 35,5 Kilometer lang, aber sie hat es dank der 1100 Höhenmeter in sich. Zweifelsohne gehört sie mit zu den anspruchsvollsten Radstrecken auf der olympischen Distanz.
+Die Radstrecke ist zwar nur 36 Kilometer lang, aber sie hat es dank der 900 Höhenmeter in sich. Zweifelsohne gehört sie mit zu den anspruchsvollsten Radstrecken auf der olympischen Distanz.
 
 ![Heidelbergman Radstrecke-Hohenprofil](img/Heidelbergman_Radstrecke-Hohenprofil.png)
 
@@ -16,7 +16,7 @@ Im Gegensatz zu den Vorjahren fahren wir dieses Jahr auch in der zweiten Runde d
 
 **Achtung:** Hier gilt gerade für die schnellen Triathleten bei der Zusammenführung der Runden am Bremen Eck (Neue Schloßstraße -> Oberer Fauler Pelz) Linksfahrgebot. D
 
-Der Rundkurs über den Königstuhl ist für die BWTV-Liga einmal und die HeidelbergMen zweimal zu fahren. Dabei wechseln sich lange Steigungen mit bis zu 14 Prozent mit halsbrecherischen Abfahrten mit bis zu über 80 km/h ab.
+Der Rundkurs über den Königstuhl zweimal zu fahren. Dabei wechseln sich lange Steigungen mit bis zu 14 Prozent mit steilen Abfahrten mit hohen Geschwindigkeiten ab.
 
 Zum Ziel geht es über den Kornmarkt, die Altstadt, die Alte Brücke und das nördliche Neckarufer zurück zur Wechselzone.
 
