@@ -130,6 +130,10 @@ const config = {
             //   to: "Wettkampf/Merkblatt",
             // },
             {
+              label: "FAQs",
+              to: "Wettkampf/FragenAntworten",
+            },
+            {
               label: "AGB",
               to: "Wettkampf/AGBs",
             },
@@ -156,10 +160,6 @@ const config = {
             {
               label: "Unterkunft",
               to: "Allgemeines/Unterkunft",
-            },
-            {
-              label: "Fragen und Antworten",
-              to: "Allgemeines/FragenAntworten",
             },
             {
               label: "Fundsachen",
