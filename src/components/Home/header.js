@@ -70,10 +70,18 @@ export default function HomepageHeader() {
     <div className={styles.buttons}>
       <div className={styles.button}>
         <Link
+            className="button button--primary button--lg"
+            to="https://heidelbergman2024.racepedia.de/"
+          >
+            Anmeldung
+          </Link>
+      </div>
+      <div className={styles.button}>
+        <Link
           className="button button--primary button--lg"
-          to="https://heidelbergman2024.racepedia.de/"
+          to="Allgemeines/Helfer"
         >
-          Anmeldung
+          Hilf mit!
         </Link>
       </div>
     </div>
@@ -92,19 +100,13 @@ export default function HomepageHeader() {
 
         <h1 className={styles.headerTagline}> Sonntag, 28. Juli 2024</h1>
 
-        <CountdownTimer
+        {/* <CountdownTimer
           targetDate={targetDate}
           text="Die Anmeldung öffnet in"
           expiredNotice={anmeldeButton}
-        />
+        /> */}
 
-        {/* <div className={styles.buttons}>
-          <div className={styles.button}>
-            <Link className="button button--primary button--lg" to="#">
-              Anmeldung
-            </Link>
-          </div>
-        </div> */}
+        {anmeldeButton}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (
