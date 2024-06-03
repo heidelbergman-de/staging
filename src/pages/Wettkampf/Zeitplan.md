@@ -8,11 +8,11 @@ title: Zeitplan
 
 Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 
-**Samstag**:
+**Samstag** (27.07.2024) :
 - **17-19 Uhr:** Ausgabe Startunterlagen
 - **18 Uhr:** Pasta Party
 
-**Sonntag**:
+**Sonntag** (28.07.2024) :
 - **6:30 – 8:00 Uhr:** Ausgabe der Startunterlagen (Wechselzone/Zielbereich)
 - **6:45 – 8:15 Uhr:** Check-In (Wechselzone)
 - **8:30 – 8:45 Uhr:** Wettkampfbesprechung (Wechselzone) – **Teilnahmepflicht!**
