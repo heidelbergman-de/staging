@@ -14,9 +14,9 @@ Von der Wechselzone geht es knapp 1 Kilometer am nördlichen Neckarufer flach en
 
 Im Gegensatz zu den Vorjahren fahren wir dieses Jahr auch in der zweiten Runde durch das Klingentor.
 
-**Achtung:** Hier gilt gerade für die schnellen Triathleten bei der Zusammenführung der Runden am Bremen Eck (Neue Schloßstraße -> Oberer Fauler Pelz) Linksfahrgebot. D
+**Achtung:** Hier gilt gerade für die schnellen Triathleten bei der Zusammenführung der Runden am Bremen Eck (Neue Schloßstraße -> Oberer Fauler Pelz) Linksfahrgebot.
 
-Der Rundkurs über den Königstuhl zweimal zu fahren. Dabei wechseln sich lange Steigungen mit bis zu 14 Prozent mit steilen Abfahrten mit hohen Geschwindigkeiten ab.
+Der Rundkurs über den Königstuhl zweimal zu fahren. Dabei wechseln sich lange Steigungen mit bis zu 14 Prozent mit steilen Abfahrten und hohen Geschwindigkeiten ab.
 
 Zum Ziel geht es über den Kornmarkt, die Altstadt, die Alte Brücke und das nördliche Neckarufer zurück zur Wechselzone.
 
@@ -24,12 +24,19 @@ Die Radstrecke ist äußerst anspruchsvoll. Wir empfehlen Euch deshalb, die Rads
 
 Das Windschattenfahren ist verboten.
 
+**Bergwertung:**
+
+In diesem Jahr neu: Wir haben für Euch oberhalb vom Klingentor bis zum Beginn des Johannes-Hoops-Wegs eine Bergwertung eingerichtet. Diese soll die Bergziegen unter Euch ermutigen, auf diesem Streckenabschnitt nochmal extra Gas zu geben, damit Ihr Eure Kletterfähigkeiten zeigen könnt. Bei 80m Höhenunterschied und über 10% durchschnittlicher Steigung sind stramme Waden gefragt. Auf den schnellsten Fahrer und die schnellste Fahrerin wartet bei der Siegerehrung eine Sonderpreis.
+
+Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus schon fleißig trainieren könnt. Das Segment findet ihr auf [strava.com] (https://www.strava.com/segments/36886942)
+
 ## Radstrecke zum Download:
 
 <!-- - [Radstrecke 2022 auf Garmin.com](https://connect.garmin.com/modern/course/68419649) < 2020 -->
 <!-- - [Radstrecke 2021](https://connect.garmin.com/modern/course/68419649) -->
+<!-- - [garmin.com](https://connect.garmin.com/modern/course/116711533) -->
 
-- Radstrecke ab 2022 auf [garmin.com](https://connect.garmin.com/modern/course/116711533)
+- Radstrecke ab 2022 auf [strava.com] (https://www.strava.com/routes/3231160210130343178)
 
 Die Radrunde wird im Wettkampf **gegen den Uhrzeigersinn** gefahren!
 
@@ -39,6 +46,6 @@ Auf unserem YouTube-Kanal könnt Ihr eine Fahrt über die alte Radstrecke im Zei
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ew7Q4y6T2Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Und hier ein weiteres Video direkt beim Rennen aufgenommen. Seid mit dabei, wie Kai Hebestreit mit bis zu 106 km/h vom Königstuhl abfährt!
+Und hier ein weiteres Video direkt beim Rennen aufgenommen. Seid mit dabei, wie Kai Hebestreit rasant den Königstuhl abfährt!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wg7kXW85WMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
