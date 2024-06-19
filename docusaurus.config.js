@@ -77,14 +77,14 @@ const config = {
       minHeadingLevel: 2,
       maxHeadingLevel: 5,
     },
-    // announcementBar: {
-    //   id: 'Announcement',
-    //   content:
-    //     'Der HeidelbergMan 2023 findet leider nicht statt.',
-    //   backgroundColor: '#d0d0d0',
-    //   textColor: '#e21918',
-    //   isCloseable: false,
-    // },
+    announcementBar: {
+      id: 'Announcement',
+      content:
+        '<div style="font-family:Montserrat;font-size:1.5em"> Ab dem 22.06. gibt es wieder eine Limitierte Anzahl an Startplätzen. Mehr <a href="blog/2024/06/19/">Infos</a> und <a href="https://heidelbergman2024.racepedia.de/"> Anmeldung </a> </div>',
+      backgroundColor: '#000000',
+      textColor: '#ffffff',
+      isCloseable: true,
+    },
     docs: {
       sidebar: {
         hideable: false,
