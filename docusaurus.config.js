@@ -80,7 +80,7 @@ const config = {
     announcementBar: {
       id: 'Announcement',
       content:
-        '<div style="font-family:Montserrat;font-size:1.5em"> Ab dem 22.06. gibt es wieder eine Limitierte Anzahl an Startplätzen. Mehr <a href="blog/2024/06/19/">Infos</a> und <a href="https://heidelbergman2024.racepedia.de/"> Anmeldung </a> </div>',
+        '<div style="font-family:Montserrat;font-size:1.5em"> Ab dem 22.06. ab 10:00 gibt es wieder eine Limitierte Anzahl an Startplätzen. Mehr <a href="blog/2024/06/19/">Infos</a> und <a href="https://heidelbergman2024.racepedia.de/"> Anmeldung </a> </div>',
       backgroundColor: '#000000',
       textColor: '#ffffff',
       isCloseable: true,
