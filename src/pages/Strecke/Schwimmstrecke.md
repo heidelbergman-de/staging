@@ -12,8 +12,5 @@ Der Start erfolgt zwischen der Staustufe Heidelberg und dem Hackteufel – also 
 
 Nach dem Start geht es circa 1700 Meter neckarabwärts – vorbei an der Alten Brücke und der Theodor-Heuss-Brücke. Der Schwimmausstieg befindet sich wieder direkt am Neckarufer, etwa 50m nach der Wasserschachtel.
 
-[Die Schwimmstrecke](https://www.google.de/maps/@49.4125758,8.701768,1549m/data=!3m1!1e3)
+![Schwimmstart](/img/pages/strecke/Schwimmstart.png)
 
-![Schwimmstart](img/Schwimmstart.png)
-
-![Schwimmausstieg](img/Schwimmausstieg.png)

@@ -8,7 +8,7 @@ title: Radstrecke
 
 Die Radstrecke ist zwar nur 36 Kilometer lang, aber sie hat es dank der 900 Höhenmeter in sich. Zweifelsohne gehört sie mit zu den anspruchsvollsten Radstrecken auf der olympischen Distanz.
 
-![Heidelbergman Radstrecke-Hohenprofil](img/Heidelbergman_Radstrecke-Hohenprofil.png)
+<!-- ![Heidelbergman Radstrecke-Hohenprofil](/img/pages/strecke/Heidelbergman_Radstrecke-Hohenprofil.png) -->
 
 Von der Wechselzone geht es knapp 1 Kilometer am nördlichen Neckarufer flach entlang. Über die Alte Brücke geht es in die Altstadt mit viel Kopfsteinpflaster und engen Kurven. Sofort folgt der Aufstieg durchs Klingentor über die Klingenteichstraße zum circa 14 Kilometer langen, meist waldigen Rundkurs.
 
@@ -28,7 +28,7 @@ Das Windschattenfahren ist verboten.
 
 In diesem Jahr neu: Wir haben für Euch oberhalb vom Klingentor bis zum Beginn des Johannes-Hoops-Wegs eine Bergwertung eingerichtet. Diese soll die Bergziegen unter Euch ermutigen, auf diesem Streckenabschnitt nochmal extra Gas zu geben, damit Ihr Eure Kletterfähigkeiten zeigen könnt. Bei 80m Höhenunterschied und über 10% durchschnittlicher Steigung sind stramme Waden gefragt. Auf den schnellsten Fahrer und die schnellste Fahrerin wartet bei der Siegerehrung eine Sonderpreis.
 
-Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus schon fleißig trainieren könnt. Das Segment findet ihr auf [strava.com] (https://www.strava.com/segments/36886942)
+Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus schon fleißig trainieren könnt. Das Segment findet ihr auf [strava.com](https://www.strava.com/segments/36886942)
 
 ## Radstrecke zum Download:
 
@@ -36,7 +36,7 @@ Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus sc
 <!-- - [Radstrecke 2021](https://connect.garmin.com/modern/course/68419649) -->
 <!-- - [garmin.com](https://connect.garmin.com/modern/course/116711533) -->
 
-- Radstrecke ab 2022 auf [strava.com] (https://www.strava.com/routes/3231160210130343178)
+- Radstrecke ab 2022 auf [strava.com](https://www.strava.com/routes/3231160210130343178)
 
 Die Radrunde wird im Wettkampf **gegen den Uhrzeigersinn** gefahren!
 

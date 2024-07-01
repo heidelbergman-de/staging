@@ -6,6 +6,6 @@ title: Wechselzone
 
 # Wechselzone
 
-Die Wechselzone ist seit dem Jahr 2011 an der Theodor-Heuss-Brücke. Durch die neue Lage liegen die Wechselzone, die Triathlonmesse und Gastronomie sowie der Zielbereich direkt beieinander.
+Die Wechselzone ist dieses Jahr an westlich der Theodor-Heuss-Brücke. Durch die neue Lage liegen die Wechselzone, die Triathlonmesse und Gastronomie sowie der Zielbereich direkt beieinander. 
 
-![Wechselzone](img/Wechselzone.png)
+![Wechselzone](/img/pages/strecke/Wechselzone.png)
