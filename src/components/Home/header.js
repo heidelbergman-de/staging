@@ -9,28 +9,28 @@ import CountdownTimer from "./countdown.js";
 
 const floatingDivs = [
   {
-    img_path: "img/header/s03.png",
+    img_path: "img/startpage/header/s03.png",
     headline: "Anmeldung",
     text: "Melde dich jetzt an...",
     button_text: "Anmeldung",
     button_link: "https://heidelbergman2024.racepedia.de/",
   },
   {
-    img_path: "img/header/s01.png",
+    img_path: "img/startpage/header/s01.png",
     headline: "Strecke",
     text: "Alle Infos zu der Strecke...",
     button_text: "Strecke",
     button_link: "/Strecke/Uebersicht",
   },
   // {
-  //   img_path: "img/header/s02.png",
+  //   img_path: "img/startpage/header/s02.png",
   //   headline: "Ergebnisse",
   //   text: "Die Ergebnisse des letzten HEIDELBERGMAN...",
   //   button_text: "Ergebnisse",
   //   button_link: "/Wettkampf/Ergebnisse/",
   // },
   {
-    img_path: "img/header/s02.png",
+    img_path: "img/startpage/header/s02.png",
     headline: "Fanzone",
     text: "Anfeueren, Musik, Bands, Gute Stimmung...",
     button_text: "Fanzonen",

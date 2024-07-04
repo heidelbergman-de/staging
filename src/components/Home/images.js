@@ -4,7 +4,7 @@ import styles from "./css/images.module.css";
 const num_images = 20;
 
 export default function ImageGallery() {
-  const images = require.context("/img/startpage/", true);
+  const images = require.context("/img/startpage/wall/", true);
 
   const getImageClass = (image) => {
     // const img = new Image();
