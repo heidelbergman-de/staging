@@ -12,7 +12,7 @@ Seid ihr bereit, die Athleten anzufeuern und richtig Stimmung zu machen? Dann se
 
 ### Alte Brücke
 
-Kommt in die **HD-Sports Fanzone**!
+Kommt in die **HDperformance / Aera Fitness Fanzone**!
 
 Hier könnt ihr die Athleten anfeuern, ihnen zujubeln und sie auf ihrem Weg zum Schwimmstart, beim Schwimmen oder beim Radfahren über die Brücke unterstützen. Die Alte Brücke ist ein wichtiger Punkt auf der Strecke und bietet eine tolle Aussicht auf den Neckar und die Altstadt.
 
