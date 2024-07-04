@@ -27,6 +27,9 @@ title: Fragen und Antworten
 **Frage:** Wie kommt man zum Schwimmstart? \
 **Antwort:** Der Schwimmstart ist am Neckarmünzplatz. Nach der Wettbewerbsbesprechung geht es gemeinsam zum Schwimmstart von der Wechselzone zum Schiwmmstart. Mehr Infos gibts bei den [Strecken](/Strecke/Uebersicht). 
 
+**Frage:** Gibt es dieses Jahr ein Testschwimmen? \
+**Antwort:** Leider haben wir aufgrund der vielen Belegungen am Neckar dieses Jahr keine Freigabe vom Wasserschifffahrsamt (WSA) für das Testschwimmen erhalten. Damit können wir Euch kein Testschwimmen anbieten. Ihr könnt allerdings gerne privat am Neckar schwimmen gehen. Bitte beachtet dabei die Regeln des WSA und die Schwimmverbote, z.B. nur max 3m entfernt vom Ufer schwimmen und nicht unter Brücken durchschwimmen. 
+
 ### Anmeldung
 
 **Frage:** Ich habe mich angemeldet, sehe mich aber immer noch nicht in der Starterliste und die Startgebühr wurde auch noch nicht abgebucht. Hat alles geklappt?  \
