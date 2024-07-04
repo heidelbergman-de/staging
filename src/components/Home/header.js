@@ -22,12 +22,19 @@ const floatingDivs = [
     button_text: "Strecke",
     button_link: "/Strecke/Uebersicht",
   },
+  // {
+  //   img_path: "img/header/s02.png",
+  //   headline: "Ergebnisse",
+  //   text: "Die Ergebnisse des letzten HEIDELBERGMAN...",
+  //   button_text: "Ergebnisse",
+  //   button_link: "/Wettkampf/Ergebnisse/",
+  // },
   {
     img_path: "img/header/s02.png",
-    headline: "Ergebnisse",
-    text: "Die Ergebnisse des letzten HEIDELBERGMAN...",
-    button_text: "Ergebnisse",
-    button_link: "/Wettkampf/Ergebnisse/",
+    headline: "Fanzone",
+    text: "Anfeueren, Musik, Bands, Gute Stimmung...",
+    button_text: "Fanzonen",
+    button_link: "/Strecke/Fanzonen/",
   },
 ];
 
