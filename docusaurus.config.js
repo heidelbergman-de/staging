@@ -204,6 +204,10 @@ const config = {
               label: "Zeitlimits",
               to: "Strecke/Zeitlimits",
             },
+            {
+              label: "Fanzonen",
+              to: "Strecke/Fanzonen",
+            },
           ],
         },
         {
