@@ -22,5 +22,5 @@ Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 - **11:30 Uhr:** Zieleinlauf Topstarter (Zielbereich)
 - **12:45 – 15:00 Uhr:** Check-Out (Wechselzone)
 - **13:40 Uhr:** Zielschluss
-- **14:30 Uhr:** Siegerehrung
+- **14:00 Uhr:** Siegerehrung
 - **15:00 Uhr:** Ende der Wechselzonen-Bewachung
