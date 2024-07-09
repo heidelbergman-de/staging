@@ -20,7 +20,7 @@ Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 - **9:30 Uhr:** Massenstart der Topstarter (Neckarmünzplatz)
 - **9:32 Uhr:** Rolling Start der restlichen Einzelstarter und Staffeln (Neckarmünzplatz)
 - **11:30 Uhr:** Zieleinlauf Topstarter (Zielbereich)
-- **12:45 – 15:00 Uhr:** Check-Out (Wechselzone)
+- **13:00 – 15:30 Uhr:** Check-Out (Wechselzone)
 - **13:40 Uhr:** Zielschluss
 - **14:00 Uhr:** Siegerehrung
-- **15:00 Uhr:** Ende der Wechselzonen-Bewachung
+- **15:30 Uhr:** Ende der Wechselzonen-Bewachung
