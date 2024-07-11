@@ -35,7 +35,7 @@ Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus sc
 
 Die Radstrecke ist in diesem Jahr von Baustellen betroffen. Bitte beachtet die Hinweise der Streckenposten und fahrt vorsichtig.
 
-- Die erste Baustelle befindet sich auf der "Neue Schlossstraße" ([https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27](https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27)). Hier wird die Straße aufgrund von Bauarbeiten auf einer Länge von 100m auf eine Spur auf 1.5m verengt. 
+- Die erste Baustelle befindet sich auf der "Neue Schlossstraße" ([https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27](https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27)). Hier wird die Straße aufgrund von Bauarbeiten auf einer Länge von 100m auf eine Spur auf 1.5m verengt. Hier darf nur die Straße genutzt werden und nicht der Fußweg.
   
 **Hier gilt Überholverbot!**. 
 
