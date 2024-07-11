@@ -45,13 +45,15 @@ Die Radrunde wird im Wettkampf **gegen den Uhrzeigersinn** gefahren!
 
 ### Youtube
 
-Auf unserem YouTube-Kanal könnt Ihr eine Fahrt über die alte Radstrecke im Zeitraffer ansehen. Die prozentuale Steigung und Geschwindigkeit werden angezeigt.
+Auf unserem YouTube-Kanal könnt Ihr eine Fahrt über die **alte** Radstrecke im Zeitraffer ansehen. Die prozentuale Steigung und Geschwindigkeit werden angezeigt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ew7Q4y6T2Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Und hier ein weiteres Video direkt beim Rennen aufgenommen. Seid mit dabei, wie Kai Hebestreit rasant den Königstuhl abfährt!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wg7kXW85WMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> \
+
+**Bitte beachtet, das ist NICHT die aktuelle Radstrecke, sondern die Radstrecke von vor 2022!**
 
 ### Infos
 
