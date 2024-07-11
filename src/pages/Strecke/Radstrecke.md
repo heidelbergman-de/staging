@@ -31,6 +31,23 @@ Auf den schnellsten Fahrer und die schnellste Fahrerin wartet bei der Siegerehru
 
 Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus schon fleißig trainieren könnt. Das Segment findet ihr auf [strava.com](https://www.strava.com/segments/36886942)
 
+### Baustellen:
+
+Die Radstrecke ist in diesem Jahr von Baustellen betroffen. Bitte beachtet die Hinweise der Streckenposten und fahrt vorsichtig.
+
+- Die erste Baustelle befindet sich auf der "Neue Schlossstraße" ([https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27](https://maps.app.goo.gl/7QAC5uGHgTiZNsJ27)). Hier wird die Straße aufgrund von Bauarbeiten auf einer Länge von 100m auf eine Spur auf 1.5m verengt. 
+  
+**Hier gilt Überholverbot!**. 
+
+Streckenposten und Kampfrichter werden Euch hier anweisen, die Spur zu nutzen.
+
+![Baustelle1](/img/pages/strecke/Baustelle1.png)
+![Baustelle2](/img/pages/strecke/Baustelle2.jpg)
+
+
+- Auf der Einfahrt zur Alten Brücke, befindet sich auf dem Gehweg eine Baustelle. Die Radstrecke ist nicht beeinträchtigt, aber die Streckenposten werden Euch anweisen, hier vorsichtig zu fahren. 
+
+
 ### Radstrecke zum Download:
 
 <!-- - [Radstrecke 2022 auf Garmin.com](https://connect.garmin.com/modern/course/68419649) < 2020 -->
