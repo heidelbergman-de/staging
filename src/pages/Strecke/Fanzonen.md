@@ -26,7 +26,6 @@ Feuert an der Klingenteichstraße die Athleten an der **VeloLand Brand Bergwertu
 
 Hier könnt ihr die Athleten auf ihrem Weg zum Königstuhl anfeuern und ihnen die nötige Motivation geben, um am steilen Anstiege alles zu geben.
 Die Alethen kommen hier zweimal vorbei, also habt ihr die Möglichkeit, sie gleich doppelt anzufeuern.
-Unterstützt werdet ihr hier von eine Band, die euch mit Musik und Stimmung versorgt.
 
 📍 Klingenteichstraße 10-12, 69117 Heidelberg. 🗺️ [Google Maps](https://maps.app.goo.gl/nE3AEk5aeX6f1XUA9) 🗺️ . 
 <br/>
