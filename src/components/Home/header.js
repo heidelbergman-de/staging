@@ -20,7 +20,7 @@ const floatingDivs = [
     headline: "Strecke",
     text: "Alle Infos zu der Strecke...",
     button_text: "Strecke",
-    button_link: "/Strecke/Uebersicht",
+    button_link: "/Strecke/Uebersicht", 
   },
   // {
   //   img_path: "img/startpage/header/s02.png",
@@ -78,17 +78,25 @@ export default function HomepageHeader() {
       <div className={styles.button}>
         <Link
             className="button button--primary button--lg"
-            to="https://heidelbergman2024.racepedia.de/"
+            to="https://heidelbergman2024.racepedia.de/liveticker"
           >
-            Anmeldung
+            Live-Ticker
           </Link>
       </div>
-      <div className={styles.button}>
+      {/* <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
           to="Allgemeines/Helfer"
         >
           Hilf mit!
+        </Link>
+      </div> */}
+      <div className={styles.button}>
+        <Link
+          className="button button--primary button--lg"
+          to="blog/2024/07/25/"
+        >
+          Anwohner-Infos
         </Link>
       </div>
     </div>
