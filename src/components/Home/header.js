@@ -78,9 +78,9 @@ export default function HomepageHeader() {
       <div className={styles.button}>
         <Link
             className="button button--primary button--lg"
-            to="https://heidelbergman2024.racepedia.de/liveticker"
+            to="https://heidelbergman2024.racepedia.de/ergebnisse"
           >
-            Live-Ticker
+            Ergebnisse 
           </Link>
       </div>
       {/* <div className={styles.button}>
