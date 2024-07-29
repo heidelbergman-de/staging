@@ -83,14 +83,14 @@ export default function HomepageHeader() {
             Ergebnisse 
           </Link>
       </div>
-      {/* <div className={styles.button}>
+      <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
-          to="Allgemeines/Helfer"
+          to="https://larasch.de/fotoportal?1#9b7da5df-94b9-4610-abec-dda533e97b4f"
         >
-          Hilf mit!
+          Race-Bilder 
         </Link>
-      </div> */}
+      </div> 
     </div>
   );
 
