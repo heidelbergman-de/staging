@@ -91,14 +91,6 @@ export default function HomepageHeader() {
           Hilf mit!
         </Link>
       </div> */}
-      <div className={styles.button}>
-        <Link
-          className="button button--primary button--lg"
-          to="blog/2024/07/25/"
-        >
-          Anwohner-Infos
-        </Link>
-      </div>
     </div>
   );
 
