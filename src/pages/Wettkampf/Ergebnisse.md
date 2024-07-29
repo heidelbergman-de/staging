@@ -6,6 +6,7 @@ title: Ergebnisse
 
 # Ergebnisse
 Die Ergebnisse der letzten Jahre finden Sie hier:
+* HeidelbergMan 2024: [Racepedia](https://heidelbergman2024.racepedia.de/ergebnisse)
 * HeidelbergMan 2022: [Runtix](https://runtix.com/sts/10050/2262)
 * HeidelbergMan 2021: [Runtix](https://runtix.com/sts/10050/2090/os/-/-)
 * HeidelbergMan 2019: [Einzelstarter/Jedermannstaffeln](https://coderesearch.com/sts/services/10050/1464), [Firmenstaffeln](https://coderesearch.com/sts/services/10050/1549)
