@@ -105,7 +105,7 @@ export default function HomepageHeader() {
           />
         </div>
 
-        <h1 className={styles.headerTagline}> Sonntag, 28. Juli 2024</h1>
+        <h1 className={styles.headerTagline}> Sonntag, 27. Juli 2025</h1>
 
         {/* <CountdownTimer
           targetDate={targetDate}
@@ -113,7 +113,7 @@ export default function HomepageHeader() {
           expiredNotice={anmeldeButton}
         /> */}
 
-        {anmeldeButton}
+        {/*anmeldeButton*/}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (
