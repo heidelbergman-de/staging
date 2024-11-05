@@ -8,11 +8,18 @@ import clsx from "clsx";
 import CountdownTimer from "./countdown.js";
 
 const floatingDivs = [
+  // {
+  //   img_path: "img/startpage/header/s03.png",
+  //   headline: "Anmeldung",
+  //   text: "Melde dich jetzt an...",
+  //   button_text: "Anmeldung",
+  //   button_link: "https://heidelbergman2024.racepedia.de/",
+  // }, 
   {
     img_path: "img/startpage/header/s03.png",
-    headline: "Anmeldung",
-    text: "Melde dich jetzt an...",
-    button_text: "Anmeldung",
+    headline: "Ergebnisse",
+    text: "Ergebnisse 2024...",
+    button_text: "Ergebnisse",
     button_link: "https://heidelbergman2024.racepedia.de/",
   },
   {
@@ -113,7 +120,7 @@ export default function HomepageHeader() {
           expiredNotice={anmeldeButton}
         /> */}
 
-        {/*anmeldeButton*/}
+        {anmeldeButton}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (
