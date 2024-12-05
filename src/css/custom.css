@@ -12,22 +12,23 @@
  */
 
 :root {
-  --ifm-color-primary: rgb(227, 24, 24);
-  --ifm-color-primary-dark: #cc1616;
-  --ifm-color-primary-darker: #c11414;
-  --ifm-color-primary-darkest: #9f1111;
-  --ifm-color-primary-light: #e92b2b;
-  --ifm-color-primary-lighter: #ea3737;
-  --ifm-color-primary-lightest: #ed5959;
+  --ifm-color-primary: hsl(345, 50%, 70%);
+  --ifm-color-primary-dark: hsl(345, 50%, 60%);
+  --ifm-color-primary-darker: hsl(345, 50%, 50%);
+  --ifm-color-primary-darkest: hsl(345, 50%, 40%);
+  --ifm-color-primary-light: hsl(345, 50%, 75%);
+  --ifm-color-primary-lighter: hsl(345, 50%, 80%);
+  --ifm-color-primary-lightest: hsl(345, 50%, 85%);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-font-family-base: "Montserrat";
   --ifm-font-family-monospace: "Roboto Mono";
-  --custom-hover-div-background-color: rgba(0, 20, 40, 0.95);
-  --custom-header-gradient-color-start: rgba(25, 25, 30, 0.6);
-  --custom-header-gradient-color-end: rgba(25, 25, 30, 0.9);
-  --custom-theme-color-start: rgba(0, 50, 100, 1);
-  --custom-theme-color-end: rgba(0, 10, 20, 1);
+  --custom-hover-div-background-color: #92a0dc;
+  --custom-header-gradient-color-start: hsla(229, 51%, 72%, 0.45);
+  --custom-header-gradient-color-end: hsla(229, 51%, 72%, 0.98);
+  --custom-theme-color-start: #92a0dc;
+  --custom-theme-color-middle: #e0a2b2;
+  --custom-theme-color-end: #ffc8a2;
 }
 
 /* Set the global font to Montserrat */
@@ -35,11 +36,18 @@ header {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  font-family: "Roboto", "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 .navbar {
   font-family: "Montserrat", sans-serif;
-  background-color: rgb(0, 20, 40);
+  background: linear-gradient(
+    90deg,
+    #92a0dc,
+    #e0a2b2,
+    #ffc8a2,
+    #e0a2b2,
+    #92a0dc
+  );
   color: white;
 }
 .navbar__link,
@@ -48,7 +56,7 @@ body {
 }
 
 .navbar-sidebar__brand {
-  background-color: rgb(0, 20, 40);
+  background-color: #1c3661;
 }
 
 img {

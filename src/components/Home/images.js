@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./css/images.module.css";
 
-const num_images = 20;
+const num_images = 26;
 
 export default function ImageGallery() {
   const images = require.context("/img/startpage/wall/", true);
@@ -13,6 +13,7 @@ export default function ImageGallery() {
     // const height = img.height;
 
     const style_list = [
+      styles.gridWrapperDiv,
       styles.gridWrapperDiv,
       styles.gridWrapperDivTall,
       styles.gridWrapperDivWide,
@@ -43,6 +44,16 @@ export default function ImageGallery() {
 
   return (
     <div className={styles.gridWrapper}>
+      <div className={styles.gridWrapperDivVideo}>
+        <video
+          className={styles.gridWrapperVideo}
+          controls
+          style={{ width: "100%" }}
+        >
+          <source src="vids/hdman24_aftermovie.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
       {randomImages.map((image, index) => (
         <div key={index} className={image[1]}>
           <img

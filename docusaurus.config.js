@@ -5,13 +5,13 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HEIDELBERGMAN",
+  title: "Heidelberg Triathlon",
   tagline: "Triathlon",
   url: "https://www.heidelbergman.de",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/HDtri_mini.ico",
   trailingSlash: true,
 
   // GitHub pages deployment config.
@@ -28,7 +28,7 @@ const config = {
     locales: ["de"],
   },
   customFields: {
-    HDLogo: "img/logo/HD_logo10.png",
+    HDLogo: "img/logo/hdman_logo_new.png",
   },
   presets: [
     [
@@ -92,12 +92,12 @@ const config = {
       },
     },
     navbar: {
-      title: "HEIDELBERGMAN",
+      title: "HEIDELBERG TRIATHLON",
       // title: "",
       hideOnScroll: true,
       logo: {
-        alt: "HeidelbergMan Logo",
-        src: "/img/logo/HD_logo10c.png",
+        alt: "HeidelbergTri Logo",
+        src: "/img/logo/HDtri_mini.png",
         // src: "/img/logo/HD_LOGO4.png",
         // src: "/img/logo/HD_logo_br_t.png",
         // src: "/img/logo/HD_logo_color.png",

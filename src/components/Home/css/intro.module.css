@@ -2,6 +2,7 @@
   background: linear-gradient(
     90deg,
     var(--custom-theme-color-start),
+    var(--custom-theme-color-middle),
     var(--custom-theme-color-end)
   );
   padding: 1rem;

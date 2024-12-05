@@ -27,7 +27,7 @@ const floatingDivs = [
     headline: "Strecke",
     text: "Alle Infos zu der Strecke...",
     button_text: "Strecke",
-    button_link: "/Strecke/Uebersicht", 
+    button_link: "/Strecke/Uebersicht",
   },
   // {
   //   img_path: "img/startpage/header/s02.png",
@@ -84,20 +84,20 @@ export default function HomepageHeader() {
     <div className={styles.buttons}>
       <div className={styles.button}>
         <Link
-            className="button button--primary button--lg"
-            to="https://heidelbergman2024.racepedia.de/ergebnisse"
-          >
-            Ergebnisse 
-          </Link>
+          className="button button--primary button--lg"
+          to="https://heidelbergman2024.racepedia.de/ergebnisse"
+        >
+          Ergebnisse
+        </Link>
       </div>
       <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
           to="https://larasch.de/fotoportal?1#9b7da5df-94b9-4610-abec-dda533e97b4f"
         >
-          Race-Bilder 
+          Race-Bilder
         </Link>
-      </div> 
+      </div>
     </div>
   );
 
@@ -136,7 +136,7 @@ export default function HomepageHeader() {
         muted
         poster="img/header/no_img.jpg"
       >
-        <source src="vids/HDman_teaser.mp4" type="video/mp4" />
+        <source src="vids/hdtri_short.webm" type="video/webm" />
         <source
           src="https://github.com/heidelbergman-de/heidelbergman-de.github.io/raw/main/static/vids/HDMan_teaser.webm"
           type="video/webm"

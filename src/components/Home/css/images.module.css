@@ -7,6 +7,7 @@
   background: linear-gradient(
     90deg,
     var(--custom-theme-color-start),
+    var(--custom-theme-color-middle),
     var(--custom-theme-color-end)
   );
   padding: 1rem;
@@ -43,6 +44,14 @@
 .gridWrapperDivBig {
   grid-column: span 2;
   grid-row: span 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gridWrapperDivVideo {
+  grid-column: span 4;
+  grid-row: span 3;
   display: flex;
   justify-content: center;
   align-items: center;
